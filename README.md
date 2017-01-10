@@ -2,7 +2,7 @@
 
 ## 使用
 1、服务器端使用开源项目wordpress,需要PHP+MYSQL环境,把server目录下文件拷贝至虚拟主机,修改wp-config.php的数据库配置信息,
-导入server/sql目录下的sql文件
+批量替换server/sql目录下的sql文件中的域名为你的域名并导入数据库。后台地址:你的域名+/wp-login.php,初始用户:admin,密码:adminadmin
 
 2、小程序服务器端需要使用HTTPS,本地开发可以使用ngrok:[参考配置](http://www.ittun.com/)
 
