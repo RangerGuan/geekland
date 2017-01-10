@@ -1,0 +1,3 @@
+.validcheck:before { content: "\2714";color:green;font-size: 40px;}
+.renewcheck:before { content: "\26A0";color:red;font-size: 30px;}
+.warningcheck:before { content: "\26A0";color:orange;font-size: 30px;}

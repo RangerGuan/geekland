@@ -1,0 +1,1936 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPeMatico v1.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-15 11:44-0300\n"
+"PO-Revision-Date: 2013-04-13 17:41:37+0000\n"
+"Last-Translator: Serg\n"
+"Language-Team: NetMdP <esteban@netmdp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wpematico.php:219
+#@ wpematico
+msgid "Last Processed Campaigns:"
+msgstr "Posledné spracované kampane:"
+
+#: wpematico.php:227
+#: wpematico.php:255
+#: wpematico.php:326
+#@ wpematico
+msgid "Edit Campaign"
+msgstr "Upraviť kampaň"
+
+#: app/campaign_fetch.php:339
+#: wpematico.php:232
+#: wpematico.php:234
+#, php-format
+#@ wpematico
+msgid "Processed Posts: %1s"
+msgstr "Spracované príspevky: %1"
+
+#: wpematico.php:237
+#: wpematico.php:239
+#, php-format
+#@ wpematico
+msgid "Fetch done in %1s sec."
+msgstr "Fetch urobil v %1 sek."
+
+#: wpematico.php:250
+#@ wpematico
+msgid "Next Scheduled Campaigns:"
+msgstr "Ďalšej plánovanej kampane:"
+
+#: app/campaigns_list.php:522
+#: app/campaigns_list_OK.php:472
+#: wpematico.php:259
+#@ wpematico
+msgid "Running since:"
+msgstr "Beží od:"
+
+#: app/campaigns_list.php:522
+#: app/campaigns_list.php:535
+#: app/campaigns_list_OK.php:472
+#: app/campaigns_list_OK.php:485
+#: wpematico.php:259
+#@ wpematico
+msgid "sec."
+msgstr "SEC."
+
+#: app/campaigns_list.php:537
+#: app/campaigns_list_OK.php:487
+#: wpematico.php:268
+#@ wpematico
+msgid "None"
+msgstr "Žiadny"
+
+#: wpematico.php:286
+#@ wpematico
+msgid "Load WPeMatico Settings Page"
+msgstr "Načítať stránku nastavenia WPeMatico"
+
+#: wpematico.php:286
+#: wpematico.php:376
+#: wpematico.php:377
+#@ wpematico
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: wpematico.php:307
+#@ default
+msgid "FAQ"
+msgstr "FAQ"
+
+#: wpematico.php:308
+#@ default
+msgid "Support"
+msgstr "Podpora"
+
+#: wpematico.php:309
+#@ wpematico
+msgid "Donate"
+msgstr "Darovať"
+
+#: wpematico.php:322
+#@ wpematico
+msgid "Campaigns"
+msgstr "Kampane"
+
+#: wpematico.php:323
+#@ wpematico
+msgid "Campaign"
+msgstr "Kampaň"
+
+#: wpematico.php:324
+#@ wpematico
+msgid "Add New"
+msgstr "Pridať nové"
+
+#: wpematico.php:325
+#@ wpematico
+msgid "Add New Campaign"
+msgstr "Pridať novú kampaň"
+
+#: wpematico.php:327
+#@ wpematico
+msgid "New Campaign"
+msgstr "Nová kampaň"
+
+#: wpematico.php:328
+#@ wpematico
+msgid "All Campaigns"
+msgstr "Všetky kampane"
+
+#: wpematico.php:329
+#@ wpematico
+msgid "View Campaign"
+msgstr "Zobrazenie kampaň"
+
+#: wpematico.php:330
+#@ wpematico
+msgid "Search Campaign"
+msgstr "Hľadať kampaň"
+
+#: wpematico.php:331
+#@ wpematico
+msgid "No campaign found"
+msgstr "No kampaň našiel"
+
+#: wpematico.php:332
+#@ wpematico
+msgid "No Campaign found in Trash"
+msgstr "Žiadne kampane, nachádza v koši"
+
+#: wpematico.php:367
+#: wpematico.php:368
+#@ wpematico
+msgid "Import old version"
+msgstr "Import starú verziu"
+
+#: wpematico.php:389
+#@ wpematico
+msgid "WPeMatico: Found campaigns from previous versions."
+msgstr "WPeMatico: Našiel kampane z predchádzajúcich verzií."
+
+#: wpematico.php:390
+#@ wpematico
+msgid "If you want import or delete them go to:"
+msgstr "Ak chcete importovať alebo mazať prejsť na:"
+
+#: wpematico.php:455
+#@ wpematico
+msgid "Settings saved."
+msgstr "Nastavenia uložené."
+
+#: app/campaigns_edit.php:69
+#@ default
+msgid "Public"
+msgstr "Verejnosti"
+
+#: app/campaigns_edit.php:70
+#@ wpematico
+msgid "Campaign Description"
+msgstr "Kampaň Popis"
+
+#: app/campaigns_edit.php:71
+#@ wpematico
+msgid "Here you can write some observations."
+msgstr "Tu môžete napísať niekoľko postrehov."
+
+#: app/campaigns_edit.php:72
+#: app/campaigns_list.php:441
+#: app/campaigns_list_OK.php:399
+#@ wpematico
+msgid "Run Now"
+msgstr "Spustiť teraz"
+
+#: app/campaigns_edit.php:163
+#: app/campaigns_list.php:72
+#: app/campaigns_list.php:95
+#: app/campaigns_list_OK.php:150
+#@ wpematico
+msgid "Running Campaign..."
+msgstr "Spustená kampaň..."
+
+#: app/campaigns_edit.php:264
+#@ wpematico
+msgid "Type some new Feed URL/s."
+msgstr "Zadajte nový Feed URL/niekt."
+
+#: app/campaigns_edit.php:305
+#@ wpematico
+msgid "Type some feed URL."
+msgstr "Zadajte niektoré feed URL."
+
+#: app/campaigns_edit.php:343
+#, php-format
+#@ wpematico
+msgid "There's an error with the supplied RegEx expression in word: %s"
+msgstr "Tam je chyba s dodaným RegEx výraz v programe word: %s"
+
+#: app/campaigns_edit.php:360
+#, php-format
+#@ wpematico
+msgid "There's an error with the supplied RegEx expression in ReWrite: %s"
+msgstr "Tam je chyba s dodaným RegEx výraz v prepísať: %s"
+
+#: app/campaigns_edit.php:385
+#@ wpematico
+msgid "At least one feed URL must be filled."
+msgstr "Aspoň jeden feed URL musí byť vyplnené."
+
+#: app/campaigns_edit.php:393
+#, php-format
+#@ wpematico
+msgid "Feed %s could not be parsed. (SimplePie said: %s)"
+msgstr "Krmivo %s nebolo možné analyzovať. (SimplePie povedal: % s)"
+
+#: app/campaigns_edit.php:397
+#, php-format
+#@ wpematico
+msgid "Feed %s could not be parsed because has an space in url."
+msgstr "Krmivo %s nie je možné analyzovať, pretože má na priestor v url."
+
+#: app/campaigns_list.php:219
+#: app/campaigns_list_OK.php:177
+#@ wpematico
+msgid "(Copy)"
+msgstr "(Kópia)"
+
+#: app/campaigns_list.php:278
+#: app/campaigns_list.php:313
+#: app/campaigns_list.php:331
+#: app/campaigns_list.php:349
+#: app/campaigns_list.php:367
+#: app/campaigns_list_OK.php:236
+#: app/campaigns_list_OK.php:271
+#: app/campaigns_list_OK.php:289
+#: app/campaigns_list_OK.php:307
+#: app/campaigns_list_OK.php:325
+#@ wpematico
+msgid "No campaign ID has been supplied!"
+msgstr "Bol dodaný bez ID kampaň!"
+
+#: app/campaigns_list.php:300
+#: app/campaigns_list_OK.php:258
+#@ wpematico
+msgid "Copy campaign failed, could not find original:"
+msgstr "Skopírujte kampane, nevyšlo, nemohol nájsť pôvodný:"
+
+#: app/campaigns_list.php:433
+#: app/campaigns_list_OK.php:391
+#@ wpematico
+msgid "Deactivate this campaign"
+msgstr "Deaktivovať túto kampaň"
+
+#: app/campaigns_list.php:433
+#: app/campaigns_list_OK.php:391
+#@ wpematico
+msgid "Activate schedule"
+msgstr "Aktivovať plán"
+
+#: app/campaigns_list.php:434
+#: app/campaigns_list_OK.php:392
+#@ wpematico
+msgid "Deactivate"
+msgstr "Deaktivovať"
+
+#: app/campaigns_list.php:434
+#: app/campaigns_list_OK.php:392
+#@ wpematico
+msgid "Activate"
+msgstr "Aktivovať"
+
+#: app/campaigns_list.php:437
+#: app/campaigns_list_OK.php:395
+#@ wpematico
+msgid "Clone this item"
+msgstr "Klon túto položku"
+
+#: app/campaigns_list.php:437
+#: app/campaigns_list_OK.php:395
+#@ wpematico
+msgid "Copy"
+msgstr "Kópia"
+
+#: app/campaigns_list.php:439
+#: app/campaigns_list_OK.php:397
+#@ wpematico
+msgid "Reset post count"
+msgstr "Reset post počítať"
+
+#: app/campaigns_list.php:439
+#: app/campaigns_list_OK.php:397
+#@ wpematico
+msgid "Reset"
+msgstr "Reset"
+
+#: app/campaigns_list.php:441
+#: app/campaigns_list_OK.php:399
+#@ wpematico
+msgid "Run Now this campaign"
+msgstr "Beh teraz tejto kampane"
+
+#: app/campaigns_list.php:444
+#: app/campaigns_list_OK.php:402
+#@ wpematico
+msgid "Delete hash code for duplicates"
+msgstr "Odstrániť hash kód pre duplikáty"
+
+#: app/campaigns_list.php:444
+#: app/campaigns_list_OK.php:402
+#@ wpematico
+msgid "Del Hash"
+msgstr "Del Hash"
+
+#: app/campaigns_list.php:452
+#: app/campaigns_list_OK.php:410
+#@ wpematico
+msgid "See last log of campaign. (Open a PopUp window)"
+msgstr "Pozri posledný log kampane. (Otvoriť PopUp okno)"
+
+#: app/campaigns_list.php:452
+#: app/campaigns_list_OK.php:410
+#@ wpematico
+msgid "See Log"
+msgstr "Pozrite denník"
+
+#: app/campaigns_list.php:456
+#: app/campaigns_list_OK.php:414
+#@ wpematico
+msgid "Clear fetching and restore campaign"
+msgstr "Jasné, očarujúce a obnoviť kampaň"
+
+#: app/campaigns_list.php:456
+#: app/campaigns_list_OK.php:414
+#@ wpematico
+msgid "Clear campaign"
+msgstr "Jasné kampaň"
+
+#: app/campaigns_list.php:467
+#: app/campaigns_list.php:470
+#: app/campaigns_list_OK.php:425
+#: app/campaigns_list_OK.php:428
+#@ wpematico
+msgid "Campaign updated."
+msgstr "Kampaň aktualizovať."
+
+#: app/campaigns_list.php:468
+#: app/campaigns_list_OK.php:426
+#@ wpematico
+msgid "Custom field updated."
+msgstr "Vlastné pole aktualizuje."
+
+#: app/campaigns_list.php:469
+#: app/campaigns_list_OK.php:427
+#@ wpematico
+msgid "Custom field deleted."
+msgstr "Vlastné pole odstráni."
+
+#. translators: %s: date and time of the revision 
+#: app/campaigns_list.php:472
+#: app/campaigns_list_OK.php:430
+#, php-format
+#@ default
+msgid "Campaign restored to revision from %s"
+msgstr "Kampaň obnovená revízie z %s"
+
+#: app/campaigns_list.php:473
+#: app/campaigns_list_OK.php:431
+#@ wpematico
+msgid "Campaign published."
+msgstr "Kampaň uverejnené."
+
+#: app/campaigns_list.php:474
+#: app/campaigns_list_OK.php:432
+#@ default
+msgid "Campaign saved."
+msgstr "Kampaň uložené."
+
+#: app/campaigns_list.php:475
+#: app/campaigns_list_OK.php:433
+#@ wpematico
+msgid "Campaign submitted."
+msgstr "Kampane posielajú."
+
+#: app/campaigns_list.php:476
+#: app/campaigns_list_OK.php:434
+#, php-format
+#@ default
+msgid "Campaign scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview campaign</a>"
+msgstr "Kampane naplánované na: <strong>%1$ s</strong>.<a target=\"_blank\" href= target=&quot;\"_blank\"&quot; href=&quot;&quot;></a target=\"_blank\" href=>\"%2$s\">Preview kampaneCampaña programada para: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Previsualizar campaña</a>"
+
+#: app/campaigns_list.php:478
+#: app/campaigns_list_OK.php:436
+#@ default
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: app/campaigns_list.php:479
+#: app/campaigns_list_OK.php:437
+#, php-format
+#@ default
+msgid "Campaign draft updated. <a target=\"_blank\" href=\"%s\">Preview campaign</a>"
+msgstr "Kampaň návrh aktualizované. <a target=&quot;\"_blank\"&quot; href=&quot;\"%s\"&quot;>Ukážka kampane</a>Borrador de campaña actualizado. <a target=\"_blank\" href=\"%s\">Previsualizar campaña</a>"
+
+#: app/campaigns_list.php:489
+#: app/campaigns_list_OK.php:447
+#@ default
+msgid "Campaign Name"
+msgstr "Názov kampane"
+
+#: app/campaign_edit_functions.php:601
+#: app/campaigns_list.php:490
+#: app/campaigns_list_OK.php:448
+#@ wpematico
+#@ default
+msgid "Status"
+msgstr "Stav"
+
+#: app/campaigns_list.php:491
+#: app/campaigns_list_OK.php:449
+#@ default
+msgid "Posts"
+msgstr "Príspevky"
+
+#: app/campaigns_list.php:492
+#: app/campaigns_list_OK.php:450
+#@ default
+msgid "Next Run"
+msgstr "Ďalšom spustení"
+
+#: app/campaigns_list.php:493
+#: app/campaigns_list_OK.php:451
+#@ default
+msgid "Last Run"
+msgstr "Posledný beh"
+
+#: app/campaigns_list.php:526
+#: app/campaigns_list_OK.php:476
+#@ wpematico
+msgid "Inactive"
+msgstr "Neaktívne"
+
+#: app/campaigns_list.php:535
+#: app/campaigns_list_OK.php:485
+#@ wpematico
+msgid "Runtime:"
+msgstr "Runtime:"
+
+#: app/campaign_edit_functions.php:17
+#@ wpematico
+msgid "Campaign Schedule"
+msgstr "Harmonogram kampane"
+
+#: app/campaign_edit_functions.php:18
+#@ wpematico
+msgid "Campaign Categories"
+msgstr "Kampaň kategórie"
+
+#: app/campaign_edit_functions.php:19
+#@ wpematico
+msgid "Tags generation"
+msgstr "Tagy generácie"
+
+#: app/campaign_edit_functions.php:20
+#@ wpematico
+msgid "Send log"
+msgstr "Odoslať log"
+
+#: app/campaign_edit_functions.php:21
+#@ wpematico
+msgid "Feeds for this Campaign"
+msgstr "Kanály pre túto kampaň"
+
+#: app/campaign_edit_functions.php:22
+#@ wpematico
+msgid "Options for this campaign"
+msgstr "Možnosti pre túto kampaň"
+
+#: app/campaign_edit_functions.php:23
+#@ wpematico
+msgid "Options for images"
+msgstr "Možnosti pre obrázky"
+
+#: app/campaign_edit_functions.php:24
+#@ wpematico
+msgid "Post Template"
+msgstr "Šablóna príspevku"
+
+#: app/campaign_edit_functions.php:26
+#@ wpematico
+msgid "Word to Category options"
+msgstr "Slovo do kategórie možnosti"
+
+#: app/campaign_edit_functions.php:28
+#@ wpematico
+msgid "Rewrite options"
+msgstr "Prepísať možnosti"
+
+#: app/campaign_edit_functions.php:44
+#@ wpematico
+msgid "Replaces words or phrases by other that you want or turns into link."
+msgstr "Nahradí slová alebo frázy inými, ktoré chcete alebo premení odkaz."
+
+#: app/campaign_edit_functions.php:45
+#: app/campaign_edit_functions.php:101
+#: app/campaign_edit_functions.php:155
+#: app/campaign_edit_functions.php:163
+#: app/campaign_edit_functions.php:212
+#: app/campaign_edit_functions.php:249
+#: app/campaign_edit_functions.php:304
+#: app/campaign_edit_functions.php:531
+#@ wpematico
+msgid "A little Help"
+msgstr "Trochu pomôcť"
+
+#: app/campaign_edit_functions.php:47
+#: app/campaign_edit_functions.php:103
+#: app/campaign_edit_functions.php:252
+#: app/campaign_edit_functions.php:534
+#@ wpematico
+msgid "Basics:"
+msgstr "Základy:"
+
+#: app/campaign_edit_functions.php:47
+#@ wpematico
+msgid "The rewriting settings allow you to replace parts of the content with the text you specify."
+msgstr "Prepisovanie nastavení umožňuje nahradenie častí obsahu s text zadáte.Las opciones de Re-escritura permiten reemplazar partes del contenido con un texto que se especifique."
+
+#: app/campaign_edit_functions.php:48
+#@ wpematico
+msgid "Basic rewriting:"
+msgstr "Základné prepisovanie:"
+
+#: app/campaign_edit_functions.php:49
+#@ wpematico
+msgid "To replace all occurrences the word ass with butt, simply type ass in the \"origin field\", and butt in \"rewrite to\"."
+msgstr "Nahradiť všetky výskyty slova zadku s zadok, jednoducho zadajte zadok v \"Origin field\", a zadok v \"rewrite to\".Para reemplazar todas las apariciones de la palabra \"culo\" por \"trasero\", simplemente escriba \"culo\" en el \"origin field\", y \"trasero\" en el \"rewrite to\"."
+
+#: app/campaign_edit_functions.php:50
+#@ wpematico
+msgid "Relinking:"
+msgstr "Prepojenie:"
+
+#: app/campaign_edit_functions.php:51
+#@ wpematico
+msgid "If you want to find all occurrences of google and make them link to Google, just type google in the \"origin field\" and http://google.com in the \"relink to\" field."
+msgstr "Ak chcete nájsť všetky výskyty a ich vzťah k Google, google Stačí zadať google v \"origin field\" a http://google.com v \"Relink to\" pole.Si desea buscar que todas las apariciones de Google y hacer que enlaces a Google, simplemente escriba Google en el \"origin field\" y http://google.com en el \"relink to\" campo."
+
+#: app/campaign_edit_functions.php:52
+#@ wpematico
+msgid "Regular expressions"
+msgstr "Regulárne výrazy"
+
+#: app/campaign_edit_functions.php:53
+#@ wpematico
+msgid "For advanced users, regular expressions are supported. Using this will allow you to make more powerful replacements. Take multiple word replacements for example. Instead of using many rewriting boxes to replace ass and arse with butt, you can use the | operator: (ass|arse)."
+msgstr "Pre pokročilých používateľov, regulárne výrazy sú podporované. Pomocou tohto umožní aby ste silnejší náhradníkov. Take slovo náhradu príklad. Namiesto použitia mnohých prepisovanie políčka nahradiť zadok a zadok s zadok, môžete použiť | prevádzkovateľ: (ass|arse).Para usuarios avanzados, expresiones regulares son permitidas. Su uso permite hacer reemplazos mas poderosos. Como por ejemplo el reemplazo de multiples palabras. En vez de usar muchas re-escrituras de la palabra culo y trasero, puede usar el operador | como ejemplo: (culo|trasero)."
+
+#: app/campaign_edit_functions.php:60
+#@ wpematico
+msgid "Origin:"
+msgstr "Pôvod:"
+
+#: app/campaign_edit_functions.php:61
+#: app/campaign_edit_functions.php:115
+#@ wpematico
+msgid "RegEx"
+msgstr "RegEx"
+
+#: app/campaign_edit_functions.php:65
+#@ wpematico
+msgid "Rewrite to:"
+msgstr "Prepísať:"
+
+#: app/campaign_edit_functions.php:69
+#@ wpematico
+msgid "ReLink to:"
+msgstr "Znova prepojiť na:"
+
+#: app/campaign_edit_functions.php:74
+#: app/campaign_edit_functions.php:127
+#: app/campaign_edit_functions.php:326
+#: app/campaign_edit_functions.php:338
+#@ wpematico
+msgid "Delete this item"
+msgstr "Odstrániť túto položku"
+
+#: app/campaign_edit_functions.php:84
+#: app/campaign_edit_functions.php:137
+#: app/campaign_edit_functions.php:349
+#@ wpematico
+msgid "Add more"
+msgstr "Pridať viac"
+
+#: app/campaign_edit_functions.php:100
+#@ wpematico
+msgid "Assigning categories based on content words."
+msgstr "Priradenie kategórie na základe obsahu slov."
+
+#: app/campaign_edit_functions.php:103
+#@ wpematico
+msgid "The Word to Category option allow you to assign singular category to the post."
+msgstr "Slovo do kategórie možnosť umožňuje priradiť singulární kategórie post.La opción Palabra a Categoría le permite asignar categorías singulares a la publicación."
+
+#: app/campaign_edit_functions.php:104
+#@ wpematico
+msgid "Example:"
+msgstr "Príklad:"
+
+#: app/campaign_edit_functions.php:105
+#@ wpematico
+msgid "If the post content contain the word \"motor\" and then you want assign the post to category \"Engines\", simply type \"motor\" in the \"Word\" field, and select \"Engine\" in Categories combo."
+msgstr "Ak post obsah obsahujú slovo \"motor\" a potom budete chcieť priradiť post kategórie \"Engines\", jednoducho zadajte \"motor\" v \"Word\" pole, a vyberte \"Engine\" v kategórií combo.Si el contenido de la publicaión contiene la plabra \"motor\" y luego desea asignar la categoría de publicación \"Engines\", simplemente tipee \"motor\" en el campo \"Word\", y seleccione \"Engine\" en el combo de Categorías."
+
+#: app/campaign_edit_functions.php:106
+#@ wpematico
+msgid "Regular Expressions"
+msgstr "Regulárne výrazy"
+
+#: app/campaign_edit_functions.php:107
+#@ wpematico
+msgid "For advanced users, regular expressions are supported. Using this will allow you to make more powerful replacements. Take multiple word replacements for example. Instead of using many Word2Cat boxes to assign motor and car to Engines, you can use the | operator: (motor|car). If you want Case insensitive on RegEx, add \"/i\" at the end of RegEx."
+msgstr "Pre pokročilých používateľov, regulárne výrazy sú podporované. Pomocou tohto umožní aby ste silnejší náhradníkov. Take slovo náhradu príklad. Namiesto použitia mnohých Word2Cat krabice na priradenie motor a auto Motory, môžete použiť | prevádzkovateľ: (motor|car). Ak chcete veci necitlivé na RegEx, pridať \"/i\" na konci RegEx.Para usuarios avanzados, las expresiones regulares estan permitidas. Usando esto puedes permitirte hacer mejores reemplazos. Tomen palabras multiples por ejemplo. En lugar de usar muchas cajas de Word2Cat para asignar 'motor' y 'autos' a 'maquinaria', puedes usar el operador | (motor|auto. Si desea caso insensible a mayusculas con RegEx, agregue \"/i\" al final de RegEx."
+
+#: app/campaign_edit_functions.php:114
+#@ wpematico
+msgid "Word:"
+msgstr "Slovo:"
+
+#: app/campaign_edit_functions.php:116
+#@ wpematico
+msgid "Case sensitive"
+msgstr "Veľké a malé písmená"
+
+#: app/campaign_edit_functions.php:119
+#@ wpematico
+msgid "To Category:"
+msgstr "Kategórie:"
+
+#: app/campaign_edit_functions.php:124
+#@ wpematico
+msgid "Select category"
+msgstr "Vyberte kategóriu"
+
+#: app/campaign_edit_functions.php:154
+#@ wpematico
+msgid "Modify, manage or add extra content to every post fetched."
+msgstr "Upravovať, spravovať alebo pridať extra obsah na každý post pritiahnuté za vlasy.Modifique, manipule o agregue contenido extra a cada publicación analizada."
+
+#: app/campaign_edit_functions.php:156
+#@ wpematico
+msgid "The post template takes the full text of each feed item it encounters, and then uses it as the post content.<br />A post template, if used, allows you to alter that content, by adding extra information, such as text, images, campaign data, etc."
+msgstr "Príspevok šablóny trvá úplné znenie jednotlivých kŕmnych položiek stretne, a potom používa ako post obsah.<br>Príspevok šablónu, ak sú použité, umožňujek zmene obsahu pridaním extra informácie, napríklad text, obrázky, kampaň dáta, atď.El template de la publicación toma el texto completo de cada fuente que encuentra, y luego lo utiliza como el contenido de la publicaión. <br/>Un template de publicación, si esta en uso, le permite alterar el contenido, agregando información extra, como texto, imágenes y datos de la campaña, etc."
+
+#: app/campaign_edit_functions.php:160
+#@ wpematico
+msgid "Enable Post Template"
+msgstr "Umožňujú Post šablóny"
+
+#: app/campaign_edit_functions.php:168
+#@ wpematico
+msgid "Supported tags"
+msgstr "Podporované Tagy"
+
+#: app/campaign_edit_functions.php:169
+#@ wpematico
+msgid "A tag is a piece of text that gets replaced dynamically when the post is created. Currently, these tags are supported:"
+msgstr "Značka je kus textu, ktorý dostane nahradil dynamicky, keď miesto je vytvoril. V súčasnej dobe podporuje tieto značky:Una etiqueta es una porción de texto que será reemplazado dinamicamente cuando la publicación sea creada. Actualmente, estas etiquetas están permitidas:"
+
+#: app/campaign_edit_functions.php:171
+#@ wpematico
+msgid "The feed item content."
+msgstr "Krmivom položku obsahu."
+
+#: app/campaign_edit_functions.php:172
+#@ wpematico
+msgid "The feed item title."
+msgstr "Krmivom položku názov."
+
+#: app/campaign_edit_functions.php:173
+#@ wpematico
+msgid "Put the featured image on content."
+msgstr "Dal Odporúčané obraz o obsahu."
+
+#: app/campaign_edit_functions.php:174
+#@ wpematico
+msgid "The feed item author."
+msgstr "Krmivom položku autor."
+
+#: app/campaign_edit_functions.php:175
+#@ wpematico
+msgid "The feed item author link (If exist)."
+msgstr "Krmivom položku Autor odkaz (ak existujú)."
+
+#: app/campaign_edit_functions.php:176
+#@ wpematico
+msgid "The feed item permalink."
+msgstr "Krmivom položku permalink."
+
+#: app/campaign_edit_functions.php:177
+#@ wpematico
+msgid "The feed URL."
+msgstr "Feed URL."
+
+#: app/campaign_edit_functions.php:178
+#@ wpematico
+msgid "The feed title."
+msgstr "Názov kanála."
+
+#: app/campaign_edit_functions.php:179
+#@ wpematico
+msgid "The description of the feed."
+msgstr "Opis krmiva."
+
+#: app/campaign_edit_functions.php:180
+#@ wpematico
+msgid "The feed's logo image URL."
+msgstr "Feed URL obrázku loga."
+
+#: app/campaign_edit_functions.php:181
+#@ wpematico
+msgid "This campaign title"
+msgstr "Táto kampaň hlava"
+
+#: app/campaign_edit_functions.php:182
+#@ wpematico
+msgid "This campaign ID."
+msgstr "Táto kampaň ID."
+
+#: app/campaign_edit_functions.php:186
+#@ wpematico
+msgid "If you want to add a link to the source at the bottom of every post and the author, the post template would look like this:"
+msgstr "Ak chcete pridať odkaz na zdroj v dolnej časti každej miesto a autor, miesto šablóny by vyzerať takto:Si desea agregar un enlace a la fuente de cada publicación y al autor, la plantilla se vería así:"
+
+#: app/campaign_edit_functions.php:187
+#: app/campaign_edit_functions.php:190
+#@ wpematico
+msgid "Go to Source"
+msgstr "Prejdite na zdroj"
+
+#: app/campaign_edit_functions.php:188
+#@ wpematico
+msgid "will be replaced with the feed item content"
+msgstr "budú nahradené s krmivom položku obsahu"
+
+#: app/campaign_edit_functions.php:188
+#@ wpematico
+msgid "by the source feed item URL, which makes it a working link and"
+msgstr "zdroj feed adresu URL položky, ktoré robí, že odkaz pracovných a"
+
+#: app/campaign_edit_functions.php:188
+#@ wpematico
+msgid "with the original author of the feed item."
+msgstr "s pôvodným autorom kŕmnych tovaru."
+
+#: app/campaign_edit_functions.php:211
+#@ wpematico
+msgid "Enable Cache Images for this campaign?"
+msgstr "Povoliť vyrovnávaciu pamäť obrázky pre túto kampaň?"
+
+#: app/campaign_edit_functions.php:214
+#: app/settings_page.php:102
+#@ wpematico
+msgid "Image Caching"
+msgstr "Obrázok Caching"
+
+#: app/campaign_edit_functions.php:214
+#@ wpematico
+msgid "When image caching is on, a copy of every image found (only in &lt;img&gt; tags) is Stored locally to the Wordpress UPLOADS Dir (Recommended)."
+msgstr "Keď obrázok caching je na, kópiu každého obrázka (len v &amp;lt;img&amp;gt; Tagy) je uložené lokálne do Wordpress obrázky Dir (odporúča sa).Cuando el cacheo de imagen esta activado, una copia de cada imagen encontrada (solo en etiquetas &lt;img&gt;) es descargada a la carpeta especificada, por defecto es en la carpeta de Wordpress \"Uploads\" (Recomendado)."
+
+#: app/campaign_edit_functions.php:215
+#: app/settings_page.php:103
+#@ wpematico
+msgid "If not enabled all images will linked to the image owner's server, but also make your website faster for your visitors."
+msgstr "Ak nebolo povolené všetky obrázky budú prepojené na obraz majiteľa server, ale aj aby vaše webové stránky rýchlejšie pre vaši návštevníci.Si no está activada todas las imágenes estarán enlazadas al server de su propietario, pero esto favorece a la velocidad de tu sitio para los visitantes."
+
+#: app/campaign_edit_functions.php:216
+#: app/campaign_edit_functions.php:220
+#: app/settings_page.php:109
+#@ wpematico
+msgid "Note"
+msgstr "Poznámka"
+
+#: app/campaign_edit_functions.php:216
+#@ wpematico
+msgid "If this featured is disabled the general Settings options for images caching is taken. Enabling this feature here will be overridden only for this campaign the general Settings options for images caching."
+msgstr "Ak to najlepšie je caching vypnuté všeobecné nastavenie možnosti pre obrázky je prevzatý. Aktivácia tejto funkcie tu sa prepíšu iba pre túto kampaň všeobecné nastavenie možnosti pre obrázky caching.Si esta característica está deshabilitada, las opciones generales de cacheo de imágenes serán tomadas. Activando esta característica aquí, sobreescribirá esta opción solo para esta campaña."
+
+#: app/campaign_edit_functions.php:219
+#: app/settings_page.php:108
+#@ wpematico
+msgid "No link to source images"
+msgstr "Žiadny odkaz na zdrojové obrazy"
+
+#: app/campaign_edit_functions.php:220
+#@ wpematico
+msgid "If selected and image upload get error, then delete the \"src\" attribute of the &lt;img&gt;. <br />If disable cache images, enabling this for delete \"src\" attribute of all &lt;img&gt; in the post."
+msgstr "Ak vybraný a obrázok nahrať get error, potom odstráňte \"src\" atribút &amp;lt;img&amp;gt;.<br>Ak vypnutie cache obrázky, Zapnutie tohto pre odstránenie\"src\" atribút všetkých &amp;lt;img&amp;gt; v post.Si selecciona una imagen subida y obtiene un error, elimine el atributo \"src\" de &lt;img&gt;. <br />Si esta deshabilitado el cacheo de imágenes, activelo para borrar el atributo \"src\" de todas &lt;img&gt; en las publicaciones."
+
+#: app/campaign_edit_functions.php:224
+#@ wpematico
+msgid "Cancel Cache Images for this campaign?"
+msgstr "Zrušiť Cache obrázky pre túto kampaň?"
+
+#: app/campaign_edit_functions.php:243
+#@ wpematico
+msgid "Max items to create on each fetch:"
+msgstr "Max položky vytvoriť na každom fetch:"
+
+#: app/campaign_edit_functions.php:245
+#@ wpematico
+msgid "Set it to 0 for unlimited. If set to a X value, only the last X items will be selected, ignoring the older ones."
+msgstr "Nastavte na 0 pre neobmedzené. Ak nastavená na hodnotu X, len posledný X položiek bude vyberajú, ignorovanie tie staršie.Configure a 0 para ilimitado. Si se configura a un valor X, sólo los últimos X ítems serán seleccionados, ignorando los anteriores."
+
+#: app/campaign_edit_functions.php:247
+#@ wpematico
+msgid "Use feed date"
+msgstr "Použitie krmív dátum"
+
+#: app/campaign_edit_functions.php:252
+#@ wpematico
+msgid "By default, WPeMatico sets the date and time of the posts to that of the moment they're created. By using this option, however, you can alter that behavior."
+msgstr "Predvolene WPeMatico nastaví dátum a čas miest s chvíľu sme vytvorili. Používať túto možnosť, však môžete zmeniť, že správanie.Por defecto, WPeMatico usa la fecha y hora en que la entrada es creada.  Usando esta opción puede cambiar este comportamiento."
+
+#: app/campaign_edit_functions.php:253
+#@ wpematico
+msgid "How it works:"
+msgstr "Ako to funguje:"
+
+#: app/campaign_edit_functions.php:253
+#@ wpematico
+msgid "To avoid incoherent dates due to lousy setup feeds, WPeMatico will use the feed date only if these conditions are met:"
+msgstr "Vyhnúť nesúvislá dátumy kvôli mizerný nastavenie kanálov, bude používať WPeMatico dátum krmivo, len vtedy, ak sú splnené tieto podmienky:Para evitar fechas incoherentes debido a tantos feeds mal configurados, WPeMatico usará la fecha del feed unicamente bajo estas condiciones:"
+
+#: app/campaign_edit_functions.php:255
+#@ wpematico
+msgid "The feed item date is not too far in the past (specifically, as much time as the campaign frequency)."
+msgstr "Krmivom položku dátum nie je príliš ďaleko v minulosti (špeciálne, tak veľa času ako kampaň frekvenciu).La fecha del original no está demasiado lejos en el pasado.  (específicamente, más tiempo de la frecuencia de la campaña)"
+
+#: app/campaign_edit_functions.php:256
+#@ wpematico
+msgid "The fetched feed item date is not in the future."
+msgstr "Vzali krmivom položku dátum nie je v budúcnosti."
+
+#: app/campaign_edit_functions.php:260
+#@ wpematico
+msgid "Use the original date from the post instead of the time the post is created by WPeMatico."
+msgstr "Použiť pôvodný dátum z post miesto vytvorení post podľa WPeMatico.Usar la fecha original del feed en vez de la hora en que WPeMatico crea la entrada."
+
+#: app/campaign_edit_functions.php:262
+#@ wpematico
+msgid "Author:"
+msgstr "Autor:"
+
+#: app/campaign_edit_functions.php:264
+#@ wpematico
+msgid "The created posts will be assigned to this author."
+msgstr "Vytvorené miesta bude pridelená tohto autora."
+
+#: app/campaign_edit_functions.php:266
+#@ wpematico
+msgid "Post title links to source?"
+msgstr "Post hlavy odkazy na zdroj?"
+
+#: app/campaign_edit_functions.php:268
+#@ wpematico
+msgid "This option make the title permalink to original URL."
+msgstr "Túto možnosť, aby titul permalink na pôvodné URL."
+
+#: app/campaign_edit_functions.php:269
+#@ wpematico
+msgid "Strip links from content"
+msgstr "Strip odkazy z obsahu"
+
+#: app/campaign_edit_functions.php:271
+#@ wpematico
+msgid "This option take out clickable links from content, leaving just the text."
+msgstr "Táto možnosť uzavrieť klikací odkazy z obsahu, opúšťa len text.Esta opción elimina los enlaces clickeables del contenido, dejando sólo el texto."
+
+#: app/campaign_edit_functions.php:273
+#@ wpematico
+msgid "Discussion options:"
+msgstr "Diskusia – možnosti:"
+
+#: app/campaign_edit_functions.php:280
+#@ wpematico
+msgid "Allow pings?"
+msgstr "Povoliť ping?"
+
+#: app/campaign_edit_functions.php:284
+#@ wpematico
+msgid "Post Content Unfiltered:"
+msgstr "Post obsah nefiltrovaných:"
+
+#: app/campaign_edit_functions.php:286
+#@ wpematico
+msgid "<b><i>Skip the Wordpress post content filters</i></b>"
+msgstr "<b><i>Preskočiť Wordpress post obsahové filtre</i></b>"
+
+#: app/campaign_edit_functions.php:287
+#: app/settings_page.php:160
+#@ wpematico
+msgid "NOTE: It is extremely dangerous to allow unfiltered content because there may be some vulnerability in the source code."
+msgstr "Poznámka: To je extrémne nebezpečné umožniť nefiltrované obsah, pretože tam môžu byť niektoré zraniteľnosti v zdrojovom kóde.NOTA: Es extremadamente peligroso permitir contenido sin filtrar porque puede haber varias vulnerabilidades en el código original."
+
+#: app/campaign_edit_functions.php:287
+#@ wpematico
+msgid "Not recommended."
+msgstr "Neodporúča."
+
+#: app/campaign_edit_functions.php:303
+#@ wpematico
+msgid "Please fill in at least one feed."
+msgstr "Vyplňte prosím aspoň jeden informačný kanál."
+
+#: app/campaign_edit_functions.php:306
+#@ wpematico
+msgid "If you're not sure about the exact feed url, just type in the domain name, and the feed will be autodetected."
+msgstr "Ak si nie ste istí o presný krmivá url, stačí len zadať názov domény, a krmivá budú autodetected.Si no está seguro de la URL de la fuente, solamente escriba el dominio, y la fuente será autodetectada."
+
+#: app/campaign_edit_functions.php:322
+#@ wpematico
+msgid "Feed URL:"
+msgstr "Feed URL:"
+
+#: app/campaign_edit_functions.php:327
+#: app/campaign_edit_functions.php:339
+#@ wpematico
+msgid "Check if this item work"
+msgstr "Skontrolujte, či táto položka pracovať"
+
+#: app/campaign_edit_functions.php:327
+#: app/campaign_edit_functions.php:339
+#: app/campaign_edit_functions.php:350
+#@ wpematico
+msgid "Checking"
+msgstr "Kontrola"
+
+#: app/campaign_edit_functions.php:334
+#@ wpematico
+msgid "New Feed:"
+msgstr "Nové krmivo:"
+
+#: app/campaign_edit_functions.php:350
+#@ wpematico
+msgid "Check all feeds"
+msgstr "Skontrolujte všetky kanály"
+
+#: app/campaign_edit_functions.php:360
+#@ wpematico
+msgid "Display all feeds"
+msgstr "Zobrazenie všetkých kanálov"
+
+#: app/campaign_edit_functions.php:390
+#@ wpematico
+msgid "Activate scheduling"
+msgstr "Aktivovanie plánovania"
+
+#: app/campaign_edit_functions.php:395
+#@ wpematico
+msgid "Minutes: "
+msgstr "Minút: "
+
+#: app/campaign_edit_functions.php:403
+#: app/campaign_edit_functions.php:420
+#: app/campaign_edit_functions.php:437
+#: app/campaign_edit_functions.php:455
+#: app/campaign_edit_functions.php:479
+#@ wpematico
+msgid "Any (*)"
+msgstr "Akékoľvek (**)"
+
+#: app/campaign_edit_functions.php:412
+#@ wpematico
+msgid "Hours:"
+msgstr "Hodiny:"
+
+#: app/campaign_edit_functions.php:429
+#@ wpematico
+msgid "Days:"
+msgstr "Dní:"
+
+#: app/campaign_edit_functions.php:447
+#@ wpematico
+msgid "Months:"
+msgstr "Mesiacov:"
+
+#: app/campaign_edit_functions.php:456
+#@ default
+msgid "January"
+msgstr "Januára"
+
+#: app/campaign_edit_functions.php:457
+#@ default
+msgid "February"
+msgstr "Februára"
+
+#: app/campaign_edit_functions.php:458
+#@ default
+msgid "March"
+msgstr "Marca"
+
+#: app/campaign_edit_functions.php:459
+#@ default
+msgid "April"
+msgstr "Apríla"
+
+#: app/campaign_edit_functions.php:460
+#@ default
+msgid "May"
+msgstr "Mája"
+
+#: app/campaign_edit_functions.php:461
+#@ default
+msgid "June"
+msgstr "Júna"
+
+#: app/campaign_edit_functions.php:462
+#@ default
+msgid "July"
+msgstr "Júla"
+
+#: app/campaign_edit_functions.php:463
+#@ default
+msgid "Augest"
+msgstr "Augest"
+
+#: app/campaign_edit_functions.php:464
+#@ default
+msgid "September"
+msgstr "Septembra"
+
+#: app/campaign_edit_functions.php:465
+#@ default
+msgid "October"
+msgstr "Októbra"
+
+#: app/campaign_edit_functions.php:466
+#@ default
+msgid "November"
+msgstr "Novembra"
+
+#: app/campaign_edit_functions.php:467
+#@ default
+msgid "December"
+msgstr "Decembra"
+
+#: app/campaign_edit_functions.php:471
+#@ wpematico
+msgid "Weekday:"
+msgstr "Všedný deň:"
+
+#: app/campaign_edit_functions.php:480
+#@ default
+msgid "Sunday"
+msgstr "Nedeľa"
+
+#: app/campaign_edit_functions.php:481
+#@ default
+msgid "Monday"
+msgstr "Pondelok"
+
+#: app/campaign_edit_functions.php:482
+#@ default
+msgid "Tuesday"
+msgstr "Utorok"
+
+#: app/campaign_edit_functions.php:483
+#@ default
+msgid "Wednesday"
+msgstr "Streda"
+
+#: app/campaign_edit_functions.php:484
+#@ default
+msgid "Thursday"
+msgstr "Štvrtok"
+
+#: app/campaign_edit_functions.php:485
+#@ default
+msgid "Friday"
+msgstr "Piatok"
+
+#: app/campaign_edit_functions.php:486
+#@ default
+msgid "Saturday"
+msgstr "Sobota"
+
+#: app/campaign_edit_functions.php:492
+#@ wpematico
+msgid "Working as <a href=\"http://wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a> job schedule:"
+msgstr "Pracuje ako < href=\"http://wikipedia.org/wiki/Cron\" target = \" &quot;_blank\">Cron rozvrh práce:Trabajando como <a href=\"http://wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a> job cronograma:"
+
+#: app/campaign_edit_functions.php:493
+#@ wpematico
+msgid "Next runtime:"
+msgstr "Budúci runtime:"
+
+#: app/campaign_edit_functions.php:503
+#@ wpematico
+msgid "E-Mail-Adress:"
+msgstr "E-mailu-Adress:"
+
+#: app/campaign_edit_functions.php:505
+#@ wpematico
+msgid "Send only E-Mail on errors."
+msgstr "Poslať len E-Mail na chyby."
+
+#: app/campaign_edit_functions.php:515
+#@ wpematico
+msgid "Tags:"
+msgstr "Tagy:"
+
+#: app/campaign_edit_functions.php:517
+#@ wpematico
+msgid "Enter comma separated list of Tags."
+msgstr "Zadajte oddelené čiarkou zoznam značiek."
+
+#: app/campaign_edit_functions.php:545
+#@ wpematico
+msgid "Quick add"
+msgstr "Rýchle pridanie"
+
+#: app/campaign_edit_functions.php:603
+#@ wpematico
+msgid "Published"
+msgstr "Uverejnené"
+
+#: app/campaign_edit_functions.php:604
+#@ wpematico
+msgid "Private"
+msgstr "Súkromné"
+
+#: app/campaign_edit_functions.php:605
+#@ wpematico
+msgid "Draft"
+msgstr "Návrh"
+
+#: app/campaign_edit_functions.php:609
+#@ wpematico
+msgid "Post type"
+msgstr "Typ stĺpika"
+
+#: app/campaign_fetch.php:47
+#, php-format
+#@ wpematico
+msgid "PHP Safe Mode is on!!! Max exec time is %1$d sec."
+msgstr "PHP núdzový režim zapnutý!!! Čas vykonania Max je %1$ d sec.PHP Modo Seguro esta activado!!! Ejecución máxima de tiempo es %1$d segs."
+
+#: app/campaign_fetch.php:51
+#, php-format
+#@ wpematico
+msgid "Memory limit set to %1$s ,because can not use PHP: memory_get_usage() function to dynamically increase the Memory!"
+msgstr "Memory limit nastavený na %1$ s, pretože nemožno použiť PHP: memory_get_usage() Funkcia dynamicky zvýšiť pamäť!Límite de Memoria configurado en %1$s, porque no se puede usar la función de PHP: memory_get_usage() para incrementar dinámicamente la memoria!"
+
+#: app/campaign_fetch.php:75
+#, php-format
+#@ wpematico
+msgid "Processing feed %1s."
+msgstr "Spracovanie krmiva % 1s."
+
+#: app/campaign_fetch.php:94
+#, php-format
+#@ wpematico
+msgid "Found duplicated hash '%1s'"
+msgstr "Nájsť duplicitné hash &quot;%1&quot;"
+
+#: app/campaign_fetch.php:95
+#: app/campaign_fetch.php:99
+#@ wpematico
+msgid "Filtering duplicated posts."
+msgstr "Filtrovanie duplicitné príspevky."
+
+#: app/campaign_fetch.php:106
+#, php-format
+#@ wpematico
+msgid "Campaign fetch limit reached at %1s."
+msgstr "Limit načítania kampaň dosiahla v % 1s."
+
+#: app/campaign_fetch.php:123
+#, php-format
+#@ wpematico
+msgid "%s posts added"
+msgstr "%s príspevky pridané"
+
+#: app/campaign_fetch.php:137
+#, php-format
+#@ wpematico
+msgid "Processing item %1s"
+msgstr "Spracovanie položky typu %1"
+
+#: app/campaign_fetch.php:152
+#@ wpematico
+msgid "Assigning original date to post."
+msgstr "Priradenie pôvodný dátum na zaúčtovanie."
+
+#: app/campaign_fetch.php:155
+#@ wpematico
+msgid "Original date out of range.  Assigning current date to post."
+msgstr "Pôvodný dátum mimo povoleného rozsahu.  Priradenie aktuálny dátum na zaúčtovanie."
+
+#: app/campaign_fetch.php:216
+#@ wpematico
+msgid "Attaching images"
+msgstr "Upevnenie obrazov"
+
+#: app/campaign_fetch.php:221
+#@ wpematico
+msgid "Featured Image Into Post."
+msgstr "Odporúčané obrázok do príspevku."
+
+#: app/campaign_fetch.php:233
+#@ wpematico
+msgid "Processing item pingbacks"
+msgstr "Spracovanie tovaru pingbacks"
+
+#: app/campaign_fetch.php:285
+#@ wpematico
+msgid "Adding unfiltered content"
+msgstr "Pridaním nefiltrované obsahu"
+
+#: app/campaign_fetch.php:309
+#: app/campaign_fetch.php:339
+#, php-format
+#@ wpematico
+msgid "Campaign fetched in %1s sec."
+msgstr "Kampaň priniesla v %1 sek."
+
+#: app/campaign_fetch.php:323
+#@ wpematico
+msgid "Campaign Name:"
+msgstr "Názov kampane:"
+
+#: app/campaign_fetch.php:325
+#@ wpematico
+msgid "Errors:"
+msgstr "Chyby:"
+
+#: app/campaign_fetch.php:327
+#@ wpematico
+msgid "Warnings:"
+msgstr "Varovanie:"
+
+#: app/campaign_fetch.php:332
+#@ wpematico
+msgid "WPeMatico Log "
+msgstr "WPeMatico denník "
+
+#: app/campaign_fetch.php:340
+#@ wpematico
+msgid "Show detailed Log"
+msgstr "Zobraziť podrobné Log"
+
+#: app/campaign_fetch.php:368
+#@ wpematico
+msgid "[WARNING]"
+msgstr "[UPOZORNENIE]"
+
+#: app/campaign_fetch.php:373
+#@ wpematico
+msgid "[ERROR]"
+msgstr "[CHYBA]"
+
+#: app/campaign_fetch.php:377
+#@ wpematico
+msgid "[DEPRECATED]"
+msgstr "[ODMIETANÉ]"
+
+#: app/campaign_fetch.php:380
+#@ wpematico
+msgid "[STRICT NOTICE]"
+msgstr "[PRÍSNE OZNÁMENIA]"
+
+#: app/campaign_fetch.php:383
+#@ wpematico
+msgid "[RECOVERABLE ERROR]"
+msgstr "[NEOPRAVITEĽNÁ CHYBA]"
+
+#: app/campaign_fetch_functions.php:24
+#, php-format
+#@ wpematico
+msgid "Checking duplicated title '%1s'"
+msgstr "Kontrola zdvojený názov &quot;%1&quot;"
+
+#: app/campaign_fetch_functions.php:24
+#@ default
+msgid "Yes"
+msgstr "áno"
+
+#: app/campaign_fetch_functions.php:24
+#@ default
+msgid "No"
+msgstr "nie"
+
+#: app/campaign_fetch_functions.php:71
+#@ wpematico
+msgid "Cleaning Links from content."
+msgstr "Čistenie odkazy z obsahu."
+
+#: app/campaign_fetch_functions.php:77
+#@ wpematico
+msgid "Parsing Post template."
+msgstr "Parsování Post šablóny."
+
+#: app/campaign_fetch_functions.php:155
+#, php-format
+#@ wpematico
+msgid "Processing Words to Category %1s"
+msgstr "Spracovanie slová do kategórie % 1s"
+
+#: app/campaign_fetch_functions.php:171
+#, php-format
+#@ wpematico
+msgid "Found!: word %1s to Cat_id %2s"
+msgstr "Našiel!: slovo %1 na Cat_id % 2s"
+
+#: app/campaign_fetch_functions.php:174
+#, php-format
+#@ wpematico
+msgid "Not found word %1s"
+msgstr "Nenašla slovo %1"
+
+#: app/campaign_fetch_functions.php:260
+#@ wpematico
+msgid "Uploading images."
+msgstr "Nahranie obrázkov."
+
+#: app/campaign_fetch_functions.php:264
+#@ wpematico
+msgid "Uploading image..."
+msgstr "Nahrať obrázok..."
+
+#: app/campaign_fetch_functions.php:339
+#@ default
+msgid "Attaching file:"
+msgstr "Pripojenie súboru:"
+
+#: app/campaign_fetch_functions.php:344
+#@ default
+msgid "Sorry, your attach could not be inserted. Something wrong happened."
+msgstr "Ospravedlňujeme sa, váš priložiť sa nepodarilo vložiť. Niečo zlé stalo."
+
+#: app/functions.php:14
+#@ wpematico
+msgid "- WordPress 3.1 or higher needed!"
+msgstr "-WordPress 3.1 alebo vyššia potreba!"
+
+#: app/functions.php:18
+#@ wpematico
+msgid "- PHP 5.2.0 or higher needed!"
+msgstr "-PHP 5.2.0 alebo vyššia potreba!"
+
+#: app/functions.php:23
+#@ wpematico
+msgid "- WP-Cron don't working please check it!"
+msgstr "-WP-Cron nemajú pracovné skontrolujte si to!"
+
+#: app/functions.php:212
+#, php-format
+#@ wpematico
+msgid "The feed %s has been parsed successfully."
+msgstr "Krmiva %s bol úspešne analyzovaný."
+
+#: app/functions.php:213
+#, php-format
+#@ wpematico
+msgid "The feed %s cannot be parsed. Simplepie said: %s"
+msgstr "Krmivo %s nie je možné analyzovať. SimplePie povedal: %s"
+
+#: app/functions.php:433
+#@ default
+msgid "WPeMatico"
+msgstr "WPeMatico"
+
+#: app/settings_page.php:8
+#@ wpematico
+msgid "WPeMatico settings"
+msgstr "WPeMatico nastavenia"
+
+#: app/settings_page.php:15
+#: app/tools_page.php:63
+#@ wpematico
+msgid "About"
+msgstr "O"
+
+#: app/settings_page.php:19
+#: app/tools_page.php:66
+#@ wpematico
+msgid "Thanks for test, use and enjoy this plugin."
+msgstr "Vďaka za test, používať a tešiť tento plugin."
+
+#: app/settings_page.php:20
+#: app/tools_page.php:67
+#@ wpematico
+msgid "If you like it, I really appreciate a donation."
+msgstr "Ak máte radi to, naozaj oceňujem daru."
+
+#: app/settings_page.php:22
+#: app/tools_page.php:69
+#@ wpematico
+msgid "Click for Donate"
+msgstr "Kliknite pre darovať"
+
+#: app/settings_page.php:28
+#@ wpematico
+msgid "Buy PRO version online"
+msgstr "Kúpiť verziu PRO online"
+
+#: app/settings_page.php:34
+#@ wpematico
+msgid "Sending e-Mails"
+msgstr "Odosielanie e-mailov"
+
+#: app/settings_page.php:36
+#@ wpematico
+msgid "Sender Email:"
+msgstr "Odosielateľa e-mailu:"
+
+#: app/settings_page.php:37
+#@ wpematico
+msgid "Sender Name:"
+msgstr "Meno odosielateľa:"
+
+#: app/settings_page.php:38
+#@ wpematico
+msgid "Send mail method:"
+msgstr "Odoslať mail metóda:"
+
+#: app/settings_page.php:41
+#@ wpematico
+msgid "PHP: mail()"
+msgstr "PHP: mail)"
+
+#: app/settings_page.php:42
+#@ wpematico
+msgid "Sendmail"
+msgstr "Sendmail"
+
+#: app/settings_page.php:43
+#@ wpematico
+msgid "SMTP"
+msgstr "SMTP"
+
+#: app/settings_page.php:46
+#@ wpematico
+msgid "Sendmail Path:"
+msgstr "Sendmail cestu:"
+
+#: app/settings_page.php:48
+#@ wpematico
+msgid "SMTP Hostname:"
+msgstr "Názov hostiteľa SMTP:"
+
+#: app/settings_page.php:49
+#@ wpematico
+msgid "SMTP Secure Connection:"
+msgstr "Zabezpečené pripojenie SMTP:"
+
+#: app/settings_page.php:51
+#@ wpematico
+msgid "none"
+msgstr "žiadny"
+
+#: app/settings_page.php:55
+#@ wpematico
+msgid "SMTP Username:"
+msgstr "SMTP užívateľské meno:"
+
+#: app/settings_page.php:56
+#@ wpematico
+msgid "SMTP Password:"
+msgstr "Heslo SMTP:"
+
+#: app/settings_page.php:65
+#: app/settings_page.php:220
+#@ wpematico
+msgid "Save settings"
+msgstr "Uložiť nastavenia"
+
+#: app/settings_page.php:70
+#@ wpematico
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: app/settings_page.php:73
+#@ wpematico
+msgid "Disable <b><i>Check Feeds before Save</i></b>"
+msgstr "Zakázať <b> <i>Kontrola kanálov pred uložiť</i></b>"
+
+#: app/settings_page.php:74
+#@ wpematico
+msgid "Check this if you don't want automatic check feed URLs before save every campaign. "
+msgstr "Pozrite sa na Ak chcete automatickú kontrolu krmív URL pred uložiť každých kampaň. Tilda esto si no deseas chequeos automáticos de las URLs de las fuentes antes de guardar cada campaña."
+
+#: app/settings_page.php:77
+#@ wpematico
+msgid "Enable <b><i>Del Hash</i></b>"
+msgstr "Umožňujú <b> <i>Del Hash</i></b>"
+
+#: app/settings_page.php:78
+#@ wpematico
+msgid "Show `Del Hash` link on campaigns list.  This link delete all hash codes for check duplicates on every feed per campaign."
+msgstr "Ukázať &quot;Del Hash&quot; odkaz na zoznam kampaní.  Tento odkaz odstrániť všetky hash kódy pre kontrola duplicity na každý kanál za kampaň.Mostrar enlace `Del Hash` en listado de campañas. Este enlace eliminará todos los códigos hash para chequear duplicados en cada fuente de las campañas."
+
+#: app/settings_page.php:81
+#@ wpematico
+msgid "Enable <b><i>See last log</i></b>"
+msgstr "Umožňujú <b> <i>vidieť posledný log</i></b>"
+
+#: app/settings_page.php:82
+#@ wpematico
+msgid "Show `See Log` link on campaigns list.  This link show the last fetch log of campaign."
+msgstr "Ukázať &quot;Pozri Log&quot; odkaz na zoznam kampaní.  Tento odkaz Zobraziť posledný fetch protokol kampaň.Mostrar enlace `See Log` en listado de campañas. Este enlace muestra el ultimo reporte de análisis de la campaña."
+
+#: app/settings_page.php:85
+#@ wpematico
+msgid "Disable <b><i>WPeMatico Credits</i> on post.</b>"
+msgstr "Zakázať <b> <i>WPeMatico kredity</i> na post.</b>"
+
+#: app/settings_page.php:86
+#@ wpematico
+msgid "I really appreciate if you can left this option blank to show the plugin's credits."
+msgstr "Som naozaj ocenia, ak môžete vľavo túto voľbu prázdnu Zobraziť plugin kredity.Realmetne apreciaría si pudieras dejar en blanco esta opción para mostrar los créditos de este plugin."
+
+#: app/settings_page.php:99
+#@ wpematico
+msgid "Images"
+msgstr "Obrázky"
+
+#: app/settings_page.php:101
+#@ wpematico
+msgid "Cache Images."
+msgstr "Cache obrázkov."
+
+#: app/settings_page.php:102
+#@ wpematico
+msgid "When image caching is on, a copy of every image found in content of every feed (only in &lt;img&gt; tags) is downloaded to the Wordpress UPLOADS Dir."
+msgstr "Keď obrázok cache zapnutá, kópiu každého obrázka nájsť v obsahu každého krmivo (len vo &amp;lt;img&amp;gt; Tagy) prevezme na Wordpress obrázky Dir.Cuando el cacheo de imágenes esta activado, una copia de cada imagen encontrada en el contenido de cada fuente (sólo en etiquetas &lt;img&gt;) es descargada a la carpeta UPLOADS de Wordpress."
+
+#: app/settings_page.php:104
+#@ wpematico
+msgid "Caching all images"
+msgstr "Ukladanie do vyrovnávacej pamäte všetky obrázky"
+
+#: app/settings_page.php:104
+#@ wpematico
+msgid "This featured in the general Settings section, will be overridden for the campaign-specific options."
+msgstr "To najlepšie vo všeobecnej časti nastavenie, sa prepíšu pre Voľby špecifické pre kampaň.Esta característica en la sección de Opciones Generales, sobreescribirá las opciones de campañas específicas."
+
+#: app/settings_page.php:109
+#@ wpematico
+msgid "If selected and image upload get error, then delete the \"src\" attribute of the &lt;img&gt;. Check this for don't link images from external sites."
+msgstr "Ak vybraný a obrázok nahrať get error, potom odstráňte \"src\" atribút &amp;lt;img&amp;gt;. Skontrolujte, či to pre neodkazujte obrázky z externých lokalít.Si está seleccionado y una imagen subida obtiene un error, eliminará el atributo \"src\" de &lt;img&gt;. <br />, actívelo para no enlazar imágenes de sitios externos."
+
+#: app/settings_page.php:112
+#@ wpematico
+msgid "Attach Images to posts."
+msgstr "Priložiť obrázky do príspevkov."
+
+#: app/settings_page.php:113
+#@ wpematico
+msgid "Image Attaching"
+msgstr "Priloženie obrázka"
+
+#: app/settings_page.php:113
+#@ wpematico
+msgid "By default when image caching is on (and everything is working fine), a copy of every image found is added to Wordpress Media."
+msgstr "V predvolenom nastavení, keď obraz caching je o (a všetko je v poriadku), kópiu každý obrázok našiel je pridaný do Wordpress médií.Por defecto cuando el cacheo de imágenes esta activado (y todo funciona bien), una copia de cada imagen encontrada es agregada a los medios de Wordpress."
+
+#: app/settings_page.php:114
+#@ wpematico
+msgid "If enabled Image Attaching all images will be attached to the owner post in WP media library; but if you see that the job process is too slowly you can deactivate this here."
+msgstr "Ak je povolená Image priloženie všetkých obrázkov bude pripojené k post majiteľ v WP knižnice médií; ale keď vidíte, že proces práce je príliš pomaly si môžete Deaktivujte toto tu.Si está activado Adjuntamiento de Imágenes, todas las imágenes serán adjuntadas al dueño de la publicaión en la librería de medios de WP; pero si percibes que el proceso es muy lento, puedes desactivarlo desde aquí."
+
+#: app/settings_page.php:117
+#@ wpematico
+msgid "Enable first image found on content as Featured Image."
+msgstr "Povoliť prvý obrázok našiel na obsah ako predstavoval obraz."
+
+#: app/settings_page.php:123
+#@ wpematico
+msgid "Enable Features"
+msgstr "Povoliť funkcie"
+
+#: app/settings_page.php:125
+#@ wpematico
+msgid "Enable <b><i>Rewrite</i></b> feature"
+msgstr "Povoliť <b><i>prepísanie</i></b> funkciu"
+
+#: app/settings_page.php:126
+#@ wpematico
+msgid "If you need use this feature, you can activate here.  Not recommended if you will not use this."
+msgstr "Ak potrebujete použiť túto funkciu, môžete aktivovať tu.  Neodporúča Ak ste nebudete používať.Si necesitas usar esta característica, puedes activarla aquí. No es recomendado que lo hagas si no vas a usarla."
+
+#: app/settings_page.php:128
+#@ wpematico
+msgid "Enable <b><i>Words to Categories</i></b> feature"
+msgstr "Zapnúť funkciu <b><i>slová do kategórií</i></b>"
+
+#: app/settings_page.php:129
+#@ wpematico
+msgid "If you need this feature in every campaign, you can activate here.  Not recommended if you will not use this."
+msgstr "Ak potrebujete túto funkciu v každej kampane, môžete aktivovať tu.  Nie odporúča, ak nebudete používať to.Si necesitas esta característica en cada campaña, puedes activarla aquí. No es recomendado hacerlo si no vas a usarla."
+
+#: app/settings_page.php:131
+#@ wpematico
+msgid "Enable <b><i>Keyword Filtering</i></b> feature"
+msgstr "Zapnúť funkciu <b><i>Kľúčového slova filtrovanie</i></b>"
+
+#: app/settings_page.php:132
+#: app/settings_page.php:136
+#@ wpematico
+msgid "If you need this feature in every campaign, you can activate here.  ONLY AVAILABLE AT PRO VERSION."
+msgstr "Ak potrebujete túto funkciu v každej kampane, môžete aktivovať tu.  LEN K DISPOZÍCII NA VERZIU PRO.Si necesitas esta característica en cada campaña, puedes activarla aquí. SOLO DISPONIBLE EN LA VERSION PRO."
+
+#: app/settings_page.php:133
+#@ wpematico
+msgid "This is for exclude or include posts according to the keywords <b>founded</b> at content or title."
+msgstr "To je pre vylúčiť alebo zahrnúť príspevky podľa kľúčových slov <b>založená</b>b > v obsahu alebo názve.Esto es para incluir o excluir publicaciones acordes a las palabras clave <b>encontradas</b> en contenidos o títulos."
+
+#: app/settings_page.php:135
+#@ wpematico
+msgid "Enable <b><i>Word count Filters</i></b> feature"
+msgstr "Zapnúť funkciu <b><i>Word count filtre</i></b>"
+
+#: app/settings_page.php:137
+#@ wpematico
+msgid "This is for cut, exclude or include posts according to the letters o words <b>counted</b> at content."
+msgstr "To je pre rez, vylúčiť alebo zahrnúť príspevky podľa písmen o slová <b>počítané</b> na obsah.Esto es para cortar, excluir o oncluir publicaciones acordes a las letras o palabras <b>contadas</b> en contenidos."
+
+#: app/settings_page.php:139
+#@ wpematico
+msgid "Enable <b><i>Custom Title</i></b> feature"
+msgstr "Povoliť <b><i>Vlastné názov</i></b> funkcie"
+
+#: app/settings_page.php:140
+#@ wpematico
+msgid "If you want a custom title for posts of a campaign, you can activate here.  ONLY AVAILABLE AT PRO VERSION."
+msgstr "Ak chcete vlastný názov pre príspevky kampane, môžete aktivovať tu.  K DISPOZÍCII LEN VO VERZII PRO.Si deseas un título personalizado para publicaciones de uan campaña, puedes activarla aquí. SOLO DISPONIBLE EN LA VERSION PRO."
+
+#: app/settings_page.php:142
+#@ wpematico
+msgid "Enable Special <b><i>1 Minute fetch</i></b> feature"
+msgstr "Zapnúť funkciu špeciálne <b><i>1 minúta priniesla</i></b>"
+
+#: app/settings_page.php:143
+#@ wpematico
+msgid "If you want to see the option for fetch RSS posts just every 1 minute at every campaign, you can activate here.    Only recommended for short posts and really fast servers.  ONLY AVAILABLE AT PRO VERSION."
+msgstr "Ak chcete vidieť možnosti načítania RSS príspevky len každú 1 minútu na každej kampane, môžete aktivovať tu.    Odporúča sa len pre krátke príspevky a naozaj rýchle servery.  K DISPOZÍCII LEN VO VERZII PRO.Si deseas ver la opción para analizar las publicaciones RSS cada 1 minuto en cada campaña, activa aquí. Sólo recomendado para publicaciones breves y servidores rápidos. SOLO DISPONIBLE EN LA VERSION PRO."
+
+#: app/settings_page.php:145
+#@ wpematico
+msgid "Enable attempt to <b><i>Get Full Content</i></b> feature"
+msgstr "Povoliť pokus <b><i>Získať úplný obsah</i></b> funkcie"
+
+#: app/settings_page.php:146
+#@ wpematico
+msgid "If you want to attempt to obtain full items content of a campaign, you can activate here.  Not recommended if you will not use this.  ONLY AVAILABLE AT PRO VERSION."
+msgstr "Ak chcete pokúšať o získanie obsahu celé položky kampane, môžete aktivovať tu.  Neodporúča, ak nebudete používať to.  K DISPOZÍCII LEN V PRO VERZIA.Si deseas intentar obtener el contenido completo de una campaña, puedes activarlo aquí. No es recomendado hacerlo si no usarás esta opción. SOLO DISPONIBLE EN LA VERSION PRO."
+
+#: app/settings_page.php:152
+#@ wpematico
+msgid "Advanced Fetching"
+msgstr "Pokročilé očarujúce"
+
+#: app/settings_page.php:156
+#@ wpematico
+msgid "Force <b><i>Custom Simplepie Library</i></b>"
+msgstr "Sila <b> <i>Vlastné Simplepie knižnice</i></b>"
+
+#: app/settings_page.php:157
+#@ wpematico
+msgid "Check this if you want to ignore Wordpress Simplepie library. "
+msgstr "Pozrite sa Ak chcete ignorovať Wordpress Simplepie knižnice. Active esto si quiere ignorar la librería Simplepie incluida en Wordpress."
+
+#: app/settings_page.php:159
+#@ wpematico
+msgid "<b><i>Allow option on campaign for skip the content filters</i></b>"
+msgstr "<b><i>Povoliť možnosť na kampaň pre preskočiť obsah filtre</i></b><b><i>Permitir opción en campaña para saltear los filtros de contenido.</i></b>"
+
+#: app/settings_page.php:161
+#@ wpematico
+msgid "See How WordPress Processes Post Content: "
+msgstr "Vidieť, ako WordPress procesy Post obsah: "
+
+#: app/settings_page.php:174
+#@ wpematico
+msgid "Dashboard widget"
+msgstr "Dashboard widget"
+
+#: app/settings_page.php:176
+#@ wpematico
+msgid "Disable <b><i>Wordpress Dashboard Widget</i></b>"
+msgstr "Zakázať <b> <i>Wordpress Dashboard Widget</i></b>"
+
+#: app/settings_page.php:177
+#@ wpematico
+msgid "Check this if you don't want display the widget dashboard.  Anyway, only admins will see it."
+msgstr "Pozrite sa ak nechcete zobraziť panel widget.  Mimochodom, len admini uvidia.Tilda esto si no deseas que se visualice el widget de escritorio. Sino, sólo los administradores podrán verlo."
+
+#: app/settings_page.php:178
+#@ wpematico
+msgid "Select user roles that can see dashboard widget:"
+msgstr "Vyberte roly používateľov, ktoré môžete vidieť dashboard widget:"
+
+#: app/settings_page.php:201
+#@ wpematico
+msgid "Disable WP-Cron"
+msgstr "Vypnúť WP-Cron"
+
+#: app/settings_page.php:203
+#@ wpematico
+msgid "Use Cron job of Hoster and disable WP_Cron"
+msgstr "Pomocou cronu krčma a zakázať WP_Cron"
+
+#: app/settings_page.php:205
+#@ wpematico
+msgid "NOTE:"
+msgstr "POZNÁMKA:"
+
+#: app/settings_page.php:205
+#@ wpematico
+msgid "Checking this, deactivate all Wordpress cron schedules."
+msgstr "Túto kontrolu, deaktivovať všetky Wordpress cron plány."
+
+#: app/settings_page.php:206
+#@ wpematico
+msgid "You must set up a cron job that calls:"
+msgstr "Musíte nastaviť cron zamestnanie, ktoré vyžaduje:"
+
+#: app/settings_page.php:208
+#: app/settings_page.php:212
+#@ wpematico
+msgid "or URL:"
+msgstr "alebo URL:"
+
+#: app/settings_page.php:210
+#@ wpematico
+msgid "If also want to run the wordpress cron with external cron you can set up a cron job that calls:"
+msgstr "Ak aj chcete spustiť wordpress cron s vonkajšie cron môžete nastaviť cronu, ktorý volá:Si deseas ejecutar el cronograma con cronogramas externos a Wordpress, puedes configurarlos un cronograma que llame:"
+
+#: app/tools_page.php:24
+#, php-format
+#@ wpematico
+msgid "Adding %1s"
+msgstr "Pridanie % 1s"
+
+#: app/tools_page.php:39
+#, php-format
+#@ wpematico
+msgid "All old WPeMatico campaigns was added to current %1s.  Now you can check these campaigns and then delete old campaigns for remove the header warning."
+msgstr "Všetky staré WPeMatico kampane bol pridaný do aktuálnej % 1s.  Teraz môžete skontrolovať tieto kampane a potom odstrániť staré kampane pre odstrániť hlavičky varovanie.Todas las antiguas campañas de WPeMatico fueron agregadas a %1s. Ahora puedes tildar esas campañas y luego eliminar viejas campañas para remover el encabezado de precaución."
+
+#: app/tools_page.php:45
+#, php-format
+#@ wpematico
+msgid "Cleaned. Go to %1s."
+msgstr "Vyčistiť. Prejdite na % 1s."
+
+#: app/tools_page.php:56
+#@ wpematico
+msgid "WPeMatico import old version campaigns"
+msgstr "WPeMatico import starú verziu kampane"
+
+#: app/tools_page.php:93
+#@ wpematico
+msgid "Importing Old Campaigns"
+msgstr "Import staré kampane"
+
+#: app/tools_page.php:95
+#@ wpematico
+msgid "Check this option to restore and add all campaigns from old Version."
+msgstr "Začiarknite túto možnosť, obnoviť a pridať všetky kampane z starú verziu.Chequea esta opción para restaurar y agregar todas las campañas de una versión antigua."
+
+#: app/tools_page.php:96
+#@ wpematico
+msgid "After WPeMatico 1.0 the campaigns are saved on database in different way, and now the campaigns are not compatibles with old versions."
+msgstr "Po WPeMatico 1.0 kampane sú uložené v databáze iným spôsobom, a teraz kampane nie sú kompatibilné so starými verziami.Posterior a WPeMatico 1.0 las campañas son guardadas en una base de datos de diferente manera, y ahora las campañas no son compatibles con versiones antiguas."
+
+#: app/tools_page.php:97
+#@ wpematico
+msgid "Note: If already have campaigns on current WPeMatico campaigns list, the old campaigns will be added to the current list."
+msgstr "Poznámka: Ak už máte kampane na aktuálny zoznam WPeMatico kampane, staré kampane sa pridajú do aktuálneho zoznamu.Nota: Si actualmente posees campañas en este listado de campañas de WPeMatico, las campañas antiguas serán agregadas a este listado."
+
+#: app/tools_page.php:101
+#@ wpematico
+msgid "Delete campaigns from prior versions of WPeMatico 1.0."
+msgstr "Odstrániť predchádzajúce verzie 1.0 WPeMatico kampane."
+
+#: app/tools_page.php:102
+#@ wpematico
+msgid "This option delete all old campaigns from database and remove the ugly header warning."
+msgstr "Táto možnosť odstrániť všetky staré kampane z databázy a škaredý Hlavička upozornenie.Esta opción elimina todas las campañas viejas de la base de datos y remueve el encabezado molesto de precaución."
+
+#: app/tools_page.php:103
+#@ wpematico
+msgid "Warning:"
+msgstr "Upozornenie:"
+
+#: app/tools_page.php:103
+#@ wpematico
+msgid "This can't be undone. You'll never see this list again."
+msgstr "Táto akcia nedá vrátiť späť. Ste nikdy vidieť tento zoznam znova.Esto no tiene vuelta atrás. Nunca podrá volver a ver este listado otra vez."
+
+#: app/tools_page.php:107
+#@ wpematico
+msgid "Campaigns found and ready to import and/or delete."
+msgstr "Kampane našiel a pripravený na import a/alebo odstrániť."
+
+#: app/tools_page.php:124
+#@ wpematico
+msgid "Submit"
+msgstr "Predložiť"
+
+#: app/campaign_edit_functions.php:531
+#@ wpematico
+msgid "Add auto Categories"
+msgstr ""
+
+#: app/campaign_edit_functions.php:534
+#@ wpematico
+msgid "If categories are found on source item, these categories will be added to the post; If category does not exist, then will be created."
+msgstr ""
+
+#: app/campaign_edit_functions.php:537
+#@ wpematico
+msgid "Add categories from the source post and/or assign existing categories below."
+msgstr ""
+
+#: app/campaign_fetch.php:162
+#@ wpematico
+msgid "Assigning Auto Categories."
+msgstr ""
+
+#: app/campaign_fetch.php:166
+#@ wpematico
+msgid "Adding Category: "
+msgstr ""
+
+#: app/campaign_edit_functions.php:162
+#@ wpematico
+msgid "Allowed tags"
+msgstr ""
+
+#: app/campaign_edit_functions.php:184
+#@ wpematico
+msgid "Some examples to help you to create custom post template."
+msgstr ""
+
+#: app/campaign_edit_functions.php:184
+#@ wpematico
+msgid "Examples:"
+msgstr ""
+
+#: app/campaign_edit_functions.php:189
+#@ wpematico
+msgid "Also you can add a gallery with three columns with all thumbnails images clickables at the bottom of every content, but before source link and author name, the post template would look like this:"
+msgstr ""
+
+#: app/campaign_edit_functions.php:191
+#@ wpematico
+msgid "it's a WP shortcode for insert a gallery into the post.  You can use any shortcode here; will be processed by Wordpress."
+msgstr ""
+
+#: app/campaigns_list.php:44
+#@ wpematico
+msgid "Visit"
+msgstr ""
+
+#: app/campaigns_list.php:62
+#@ wpematico
+msgid "Run Selected Campaigns"
+msgstr ""
+
+#: app/campaigns_list.php:91
+#@ wpematico
+msgid "Please select campaign(s) to Run."
+msgstr ""
+
+#: app/campaigns_list_OK.php:61
+#: app/campaigns_list_OK.php:62
+#@ default
+msgid "Export"
+msgstr ""
+
+#: app/campaigns_list_OK.php:104
+#@ default
+msgid "Error exporting post."
+msgstr ""
+
+#: app/campaigns_list_OK.php:125
+#, php-format
+#@ default
+msgid "Post exported."
+msgid_plural "%s posts exported."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: app/settings_page.php:154
+#@ wpematico
+msgid "Click here for test if SimplePie lib works well on your server."
+msgstr ""
+
+#: app/settings_page.php:165
+#@ wpematico
+msgid "Timeout running campaign:"
+msgstr ""
+
+#: app/settings_page.php:166
+#@ wpematico
+msgid "When a campaign running is interrupted, cannot be executed again until click \"Clear Campaign\".  This option clear campaign after this timeout then can run again on next scheduled cron. A value of \"0\" ignore this, means that remain until user make click.  Recommended 300 Seconds."
+msgstr ""
+

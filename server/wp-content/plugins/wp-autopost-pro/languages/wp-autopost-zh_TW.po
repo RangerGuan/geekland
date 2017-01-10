@@ -1,0 +1,1514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: jia yang\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Publish Status"
+msgstr "發表狀態"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Watermark Options"
+msgstr "水印选项"
+
+msgid "Updated Post"
+msgstr "已更新文章"
+
+msgid "Logs"
+msgstr "日志"
+
+msgid "Documentation"
+msgstr "使用文档"
+
+msgid "Add New Task"
+msgstr "新建任务"
+
+msgid "Please add new task."
+msgstr "请创建新任务."
+
+msgid "Number per page"
+msgstr "每页显示数"
+
+msgid "Or Create an &lt;Example Task> to quick start."
+msgstr "或者创建一个&lt;示例任务>以快速开始."
+
+msgid "An Example Task has been created. As a reference, you can quickly master use of this plugin."
+msgstr "一个示例任务已经创建，作为参考可以快速掌握该插件的使用"
+
+msgid "A new task has been created."
+msgstr "一个新任务已经创建。"
+
+msgid "Task Name"
+msgstr "任务名称"
+
+msgid "Task"
+msgstr "任务"
+
+msgid "Task activated."
+msgstr "任务已启用"
+
+msgid "Task deactivated."
+msgstr "任务已停用"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Crawl URL : "
+msgstr "抓取网址 ："
+
+msgid "found"
+msgstr "找到"
+
+msgid "Find Article : "
+msgstr "找到文章 ："
+
+msgid "Filter Out Article"
+msgstr "过滤掉文章"
+
+msgid "Updated Articles"
+msgstr "已更新文章"
+
+msgid "Setting"
+msgstr "设置"
+
+msgid "Last updated"
+msgstr "上次更新"
+
+msgid "Expected next update"
+msgstr "预计下次更新"
+
+msgid "Last detected"
+msgstr "上次检测"
+
+msgid "Expected next detect"
+msgstr "预计下次检测"
+
+msgid "Recently updated articles"
+msgstr "最近更新文章"
+
+msgid "Posts Pending Extraction"
+msgstr "篇文章待采集"
+
+msgid "Update Now"
+msgstr "现在更新"
+
+msgid "Is running"
+msgstr "正在运行中"
+
+msgid "Abort"
+msgstr "终止"
+
+msgid "Update All"
+msgstr "更新全部"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid " years"
+msgstr "年"
+
+msgid " months"
+msgstr "月"
+
+msgid " weeks"
+msgstr "星期"
+
+msgid " days"
+msgstr "天"
+
+msgid " hours"
+msgstr "小时"
+
+msgid " minutes"
+msgstr "分钟"
+
+msgid " seconds"
+msgstr "秒"
+
+msgid " ago"
+msgstr "前"
+
+msgid " after"
+msgstr "后"
+
+msgid "Return"
+msgstr "返回"
+
+msgid "Test Fetch"
+msgstr "测试抓取"
+
+msgid "Test"
+msgstr "测试"
+
+msgid "Add New"
+msgstr "新增"
+
+msgid "Updated!"
+msgstr "已更新!"
+
+msgid "Deleted!"
+msgstr "已删除!"
+
+msgid "Has been deleted"
+msgstr "已被删除"
+
+msgid "Post Type"
+msgstr "文章类型"
+
+msgid "Taxonomy"
+msgstr "分类"
+
+msgid "Post Format"
+msgstr "文章形式"
+
+msgid "Categories"
+msgstr "分类目录"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Random Author"
+msgstr "随机作者"
+
+msgid "Update Interval"
+msgstr "更新时间间隔"
+
+msgid "How long Intervals detect whether there is a new article can be updated"
+msgstr "间隔多长时间检测一次是否有新文章可以更新"
+
+msgid "Published Date Interval"
+msgstr "发布时间间隔"
+
+msgid "The published date interval between each post"
+msgstr "每篇文章之间的发布时间间隔"
+
+msgid "Post Scheduled"
+msgstr "定时发布"
+
+msgid "Start Time"
+msgstr "起始时间"
+
+msgid "Expected newest publish date"
+msgstr "预计最新文章发布时间"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Specify Publish Date"
+msgstr "指定发布时间"
+
+msgid "Charset"
+msgstr "字符集"
+
+msgid "Automatic Detection"
+msgstr "自动检测"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Download Remote Images"
+msgstr "下载远程图片"
+
+msgid "Save the images to wordpress media library"
+msgstr "将下载的图片保存到wordpress媒体库中"
+
+msgid "Set Featured Image"
+msgstr "设置特色图片"
+
+msgid "Set images as the featured image automatically"
+msgstr "将文章中的图片自动设为特色图片"
+
+msgid "1:the first image; 2:the second image"
+msgstr "1:第1张图片; 2:第2张图片"
+
+msgid "Add a watermark to downloaded images automatically"
+msgstr "下载的图片自动添加水印"
+
+msgid "The attribute of image's URL"
+msgstr "图片地址的属性"
+
+msgid "Usually is \" src \""
+msgstr "通常为 \" src \""
+
+msgid "Download Remote Attachments"
+msgstr "下载远程附件"
+
+msgid "Remote Attachment Download Option"
+msgstr "远程附件下载选项"
+
+msgid "Save the attachments to wordpress media library"
+msgstr "将下载的附件保存到wordpress媒体库中"
+
+msgid "Auto Tags"
+msgstr "自动标签"
+
+msgid "Use Wordpress Tags Library"
+msgstr "使用Wordpress标签库"
+
+msgid "Tags List"
+msgstr "标签列表"
+
+msgid "Separated with a comma"
+msgstr "英文逗号隔开"
+
+msgid "Match Whole Word"
+msgstr "匹配完整的单词"
+
+msgid "Autotag only a post when terms finded in the content are a the same name"
+msgstr "中文文章请勿勾选此项"
+
+msgid "Auto Excerpt"
+msgstr "自动摘要"
+
+msgid "Set the paragraph as an excerpt automatically"
+msgstr "自动将文章中的段落文字设为摘要"
+
+msgid "1:beginning of paragraph 1; 2:beginning of paragraph 2"
+msgstr "1:从第1段开始; 2:从第2段开始"
+
+msgid "Manually Selective Extraction"
+msgstr "手动选择性采集"
+
+msgid "Manually select which article can be posted in your site"
+msgstr "手动选择哪些文章可以在您的网站发布"
+
+msgid "Check Extracted Method"
+msgstr "检测已抓取方式"
+
+msgid "URL + Title"
+msgstr "URL + 标题"
+
+msgid "Basic Settings"
+msgstr "基本设置"
+
+msgid "Article Source Settings"
+msgstr "文章来源设置"
+
+msgid "Article Extraction Settings"
+msgstr "文章抓取设置"
+
+msgid "Article Crawl"
+msgstr "文章抓取"
+
+msgid "Article Content Filtering"
+msgstr "文章内容过滤"
+
+msgid "HTML tags Filtering"
+msgstr "HTML标签过滤"
+
+msgid "Article Content Keywords Replacement"
+msgstr "正文关键词替换"
+
+msgid "Article Title Keywords Replacement"
+msgstr "标题关键词替换"
+
+msgid "Insert Content In Anywhere"
+msgstr "文章任意位置插入内容"
+
+msgid "Prefix / Suffix"
+msgstr "前缀 / 后缀"
+
+msgid "Article Title"
+msgstr "文章标题"
+
+msgid "Post Content"
+msgstr "文章内容"
+
+msgid "Post Excerpt"
+msgstr "文章摘要"
+
+msgid "Post Tags"
+msgstr "文章标签"
+
+msgid "Post Date"
+msgstr "发布时间"
+
+msgid "The URL of Article List"
+msgstr "文章列表网址"
+
+msgid "Use <b>RSS</b>"
+msgstr "使用 <b>RSS</b>"
+
+msgid "Use RSS do not need this setting"
+msgstr "使用RSS不需要设置该选项"
+
+msgid "Manually specify"
+msgstr "手工指定"
+
+msgid "You can add multiple URLs, each URL begin at a new line"
+msgstr "可以添加多个网址，每个网址以新行开始"
+
+msgid "Batch generate"
+msgstr "批量生成"
+
+msgid "For example"
+msgstr "例如"
+
+msgid "From"
+msgstr "从"
+
+msgid "To"
+msgstr "到"
+
+msgid "Reverse the sort of articles"
+msgstr "颠倒文章的排序"
+
+msgid "Click Test to see the difference"
+msgstr "点击测试可查看有什么不同"
+
+msgid "Add the source URL to custom fields"
+msgstr "添加来源网址到自定义栏目"
+
+msgid "Article Filtering"
+msgstr "文章过滤"
+
+msgid "Extraction base on keyword"
+msgstr "根据关键词采集"
+
+msgid "<strong>Only Extract</strong> when Title or Content contains following keywords"
+msgstr "<strong>只采集</strong>标题或正文中包含以下关键词的文章"
+
+msgid "<strong>Do Not Extract</strong> when Title or Content contains following keywords"
+msgstr "<strong>不采集</strong>标题或正文中包含以下关键词的文章"
+
+msgid "Only Check <strong>Title</strong>"
+msgstr "只检测<strong>标题</strong>"
+
+msgid "Only Check <strong>Content</strong>"
+msgstr "只检测<strong>正文</strong>"
+
+msgid "Check <strong>Title Or Content</strong>"
+msgstr "检测<strong>标题或正文</strong>"
+
+msgid "Keyword Occurrence Times"
+msgstr "关键词出现次数"
+
+msgid "[Keyword Occurrence Times] Only effective on check the content"
+msgstr "[关键词出现次数]只在检测文章正文时有效"
+
+msgid "Keyword List"
+msgstr "关键词列表"
+
+msgid "Filtered article status"
+msgstr "被过滤掉的文章的状态"
+
+msgid "Add the custom fields to each post, can use the get_post_meta() function get the value."
+msgstr "添加该自定义栏目到每篇文章，可以通过使用 get_post_meta() 函数获取该值。"
+
+msgid "Post articles in the following order"
+msgstr "将按如下顺序发表文章"
+
+msgid "Article URL matching rules"
+msgstr "文章网址匹配规则"
+
+msgid "Use URL wildcards match pattern"
+msgstr "使用URL通配符匹配"
+
+msgid "Article URL"
+msgstr "文章URL"
+
+msgid "The articles URL, (*) is wildcards"
+msgstr "列表内文章地址，(*)为通配符"
+
+msgid "Use CSS Selector"
+msgstr "使用CSS选择器"
+
+msgid "The Article URLs CSS Selector"
+msgstr "文章网址CSS选择器"
+
+msgid "Please enter URL!"
+msgstr "请输入网址！"
+
+msgid "Please enter Article URL matching rules!"
+msgstr "请输入请输入文章网址匹配规则！"
+
+msgid "The Article Title Matching Rules"
+msgstr "文章标题匹配规则"
+
+msgid "The Article Title Matching Rule"
+msgstr "文章标题匹配规则"
+
+msgid "The Article Title CSS Selector"
+msgstr "文章标题CSS选择器"
+
+msgid "Starting Unique HTML"
+msgstr "起始无重复HTML"
+
+msgid "Ending Unique HTML"
+msgstr "结束无重复HTML"
+
+msgid "(*) is Wildcards"
+msgstr "(*)为通配符"
+
+msgid "The Article Content Matching Rules"
+msgstr "文章内容匹配规则"
+
+msgid "The Article Content Matching Rule"
+msgstr "文章内容匹配规则"
+
+msgid "Matching Rule"
+msgstr "匹配规则"
+
+msgid "The Article Content CSS Selector"
+msgstr "文章内容CSS选择器"
+
+msgid "Use Wildcards Match Pattern"
+msgstr "使用通配符匹配"
+
+msgid "Contain The Outer HTML Text"
+msgstr "包含外部HTML文本"
+
+msgid "Index"
+msgstr "索引"
+
+msgid "Default is 0:[extraction all matched content], 1:[extraction first matched content], -1:[extraction last matched content]"
+msgstr ""
+"默认为0:[提取所有匹配的内容], \n"
+"1:[提取第1个匹配的内容], \n"
+"-1:[提取最后1个匹配的内容]"
+
+msgid "To: "
+msgstr "采集到: "
+
+msgid "Add More Matching Rules"
+msgstr "增加更多匹配规则"
+
+msgid "If you also need to extract content on different areas"
+msgstr "如果还需要抓取不同区域上的内容"
+
+msgid "Please enter The Article Title Matching Rules!"
+msgstr "请输入请输入文章标题匹配规则！"
+
+msgid "Please enter The Article Content Matching Rules!"
+msgstr "请输入请输入文章内容匹配规则！"
+
+msgid "Please enter the URL of test!"
+msgstr "请输入测试抓取的地址！"
+
+msgid "The Article Pagination URLs CSS Selector"
+msgstr "文章分页链接CSS选择器"
+
+msgid "The Article Pagination URLs Matching Rule"
+msgstr "文章分页链接匹配规则"
+
+msgid "Use the same pagination when published"
+msgstr "当发表时也分页"
+
+msgid "Must select to the HTML &lta> tag"
+msgstr "必须选择 HTML &lta> 标签"
+
+msgid "Extract The Paginated Content"
+msgstr "抓取正文分页内容"
+
+msgid "If the article is divided into multiple pages"
+msgstr "如果文章被分成多个页面"
+
+msgid "Enter the URL of test extraction"
+msgstr "请输入测试抓取的地址"
+
+msgid "Site Login Settings"
+msgstr "网站登录设置"
+
+msgid "Extract contents that need to login can view"
+msgstr "采集需要登录才能浏览的内容"
+
+msgid "Set Login Detail"
+msgstr "设置登陆信息"
+
+msgid "Set Cookie"
+msgstr "设置Cookie"
+
+msgid "The Login URL"
+msgstr "登陆URL"
+
+msgid "Extraction Parameters"
+msgstr "提取参数"
+
+msgid "The Submit Parameters"
+msgstr "提交参数"
+
+msgid "Parameter Name"
+msgstr "参数名称"
+
+msgid "Parameter Value"
+msgstr "参数值"
+
+msgid "How to get Cookie?"
+msgstr "如何获取Cookie?"
+
+msgid "Cookie may expire, then need to update the Cookie."
+msgstr "Cookie可能会过期，到时需要更新该Cookie"
+
+msgid "The Cookie test result, if Cookie set right you can see the contents that need to login"
+msgstr "Cookie测试结果，如果Cookie设置正确你将看到需要登录才能看到的内容"
+
+msgid "Delete the content between the two key words"
+msgstr "删除两个关键词之间的内容"
+
+msgid "Keyword 2 can be empty, which means that delete everything after the keyword 1"
+msgstr "关键词2可以为空，表示过滤掉关键词1之后的所有内容"
+
+msgid "Keyword"
+msgstr "关键词"
+
+msgid "Delete the content selected by CSS Selector"
+msgstr "删除由CSS选择器所选择的内容"
+
+msgid "CSS Selector"
+msgstr "CSS选择器"
+
+msgid "If you want to filter out html &lta> tag, only need to fill out &nbsp; \" a \""
+msgstr "如果需要过滤掉a标签，只需要填写a即可"
+
+msgid "HTML tag"
+msgstr "HTML 标签"
+
+msgid "Delete the contents of the HTML tag"
+msgstr "是否删除标签内容"
+
+msgid "Replace With"
+msgstr "替换为"
+
+msgid "Not Replace Tag and Attribute Contents"
+msgstr "不替换标签及标签内属性内容"
+
+msgid "Find the specified HTML Element, then insert content in front of the HTML Element ( or behind it )"
+msgstr "找到指定的HTML元素，在该元素前面（或后面）插入内容"
+
+msgid "If you want to insert some content( like &lt;!-- more --> )  behind the first paragraph, We just need to set the following"
+msgstr "如果需要在第1段文字结束之后插入&lt;!-- more -->标签，只需要如下设置"
+
+msgid "Tips: if <b>Index</b> is <b>0</b> means find all matched element ; <b> 1 </b> means find the first matched element ; <b> -1 </b> means find the last matched element."
+msgstr "Tips: 如果 <b>索引</b> 是 <b>0</b> 为找到所有匹配的元素 ; <b> 1 </b> 为找到第1个匹配的元素 ; <b> -1 </b> 为找到最后1个匹配的元素."
+
+msgid "Tips: support use variables : "
+msgstr "Tips: 支持使用变量 : "
+
+msgid "Tips: <code><em>[Outer-Front]</em></code> &lt;tag> <code><em>[Inner-Front]</em></code> some text <code><em>[Inner-Behind]</em></code> &lt;/tag> <code><em>[Outer-Behind]</em></code>"
+msgstr "Tips: <code>[外部-前面]</code> &lt;tag> <code>[内部-前面]</code> some text <code>[内部-后面]</code> &lt;/tag> <code>[外部-后面]</code>"
+
+msgid "custom_field_name"
+msgstr "自定义栏目名称"
+
+msgid "html_attribute_name"
+msgstr "html属性名称"
+
+msgid "HTML Element (Use CSS Selector)"
+msgstr "  HTML元素 ( 使用CSS选择器 )  "
+
+msgid "Outer - Behind"
+msgstr "外部 - 后面"
+
+msgid "Outer - Front"
+msgstr "外部 - 前面"
+
+msgid "Inner - Behind"
+msgstr "内部 - 后面"
+
+msgid "Inner - Front"
+msgstr "内部 - 前面"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Article Title Prefix"
+msgstr "文章标题前缀"
+
+msgid "Article Title Suffix"
+msgstr "文章标题后缀"
+
+msgid "Article Content Prefix"
+msgstr "文章正文前缀"
+
+msgid "Article Content Suffix"
+msgstr "文章正文后缀"
+
+msgid "Custom Article Style"
+msgstr "自定义文章样式"
+
+msgid "Can add any Attributes to any HTML Element (or modify any HTML Element's Attribute)"
+msgstr "可以给任意HTML元素增加任意属性（或修改任意HTML元素的属性）"
+
+msgid "If you want to all images align center, we just need to set the following"
+msgstr "如果需要让所有图片居中显示，只需要如下设置"
+
+msgid "Tips: if need to remove a attribute, set the value is \"null\""
+msgstr "Tips: 如果需要删除某个属性，设置该属性值为 \"null\""
+
+msgid "Of course, if you konw CSS, you also can use CLASS attribute"
+msgstr "当然，如果你熟悉CSS，你也可以使用 class 属性"
+
+msgid "Attribute"
+msgstr "属性"
+
+msgid "In test only try to open"
+msgstr "测试时只尝试打开"
+
+msgid "URLs of Article List"
+msgstr "个文章列表网址"
+
+msgid "URLs of Article"
+msgstr "个文章网址"
+
+msgid "The Article List URL"
+msgstr "文章列表网址"
+
+msgid "All articles in the following"
+msgstr "所有文章如下"
+
+msgid "does not detect a new article"
+msgstr "没有检测到有新文章"
+
+msgid "updated"
+msgstr "更新了"
+
+msgid "articles"
+msgstr "篇文章"
+
+msgid "an error occurs, please check the log information"
+msgstr "发生错误, 请查看日志信息"
+
+msgid "An error occurred"
+msgstr "发生错误"
+
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Update Option"
+msgstr "更新选项"
+
+msgid "Update Method"
+msgstr "更新方式"
+
+msgid "Automatically check for updates after pages load"
+msgstr "当页面加载后自动检测更新"
+
+msgid "Cron job or manual updates"
+msgstr "使用Cron计划任务或手动更新"
+
+msgid "If you want to use a cron job, you can perform scheduled updates by sending regularly-scheduled requests to"
+msgstr "如果需要使用Cron计划任务，可以定时向该地址发送请求实现自动检测更新"
+
+msgid "For example, inserting the following line in your crontab:"
+msgstr "例如，在cron计划表中添加如下指令："
+
+msgid "will check in every 10 minutes and check for updates on any activated tasks that are ready to be polled for updates."
+msgstr "将会每10分钟检测一次已启用的任务中是否有新文章可以更新。"
+
+msgid "Time Limit on Updates"
+msgstr "更新处理时间限制"
+
+msgid "Recommend the use of 0, which means that no time limit."
+msgstr "推荐使用0，表示无时间限制"
+
+msgid "How many tasks can run simultaneously"
+msgstr "最大同时运行任务数量"
+
+msgid "Unlimited"
+msgstr "无限制"
+
+msgid "If Unlimited, may affect server performance"
+msgstr "如果无限制，可能会影响到服务器性能"
+
+msgid "Extraction Pause Time"
+msgstr "采集停顿时间"
+
+msgid "After extracted one article, sleep some seconds then begin next extraction"
+msgstr "采集完一篇文章之后，停顿几秒后才开始下一篇的采集"
+
+msgid "Remote Images Download Option"
+msgstr "远程图片下载选项"
+
+msgid "Min Width Image to Download"
+msgstr "可下载图片的最小宽度"
+
+msgid "Download timeout"
+msgstr "下载超时时间"
+
+msgid "Downloaded Images Use Relative URL"
+msgstr "下载的图片使用相对地址"
+
+msgid "The downloaded images and save in the local server use relative URL"
+msgstr "下载并保存到本地服务器的图片使用相对地址(相对URL)"
+
+msgid "When download images fails will not post"
+msgstr "下载图片失败时不发布文章"
+
+msgid "All downloaded images generate thumbnail"
+msgstr "所有下载的图片都生成缩略图"
+
+msgid "Only take effect when choose save the images to wordpress media library"
+msgstr "只有选择下载的图片保存到WordPress媒体库中才有效"
+
+msgid "Downloaded Images Size Optimization"
+msgstr "下载图片尺寸优化"
+
+msgid "Max Width"
+msgstr "最大宽度"
+
+msgid "When the original image's width exceed this PX, will resize this image"
+msgstr "当下载图片的宽度超过该像素大小，将自动调整该图像尺寸"
+
+msgid "Organize my uploads into day- and month- and year-based folders"
+msgstr "以年—月—日目录形式组织上传内容"
+
+msgid "The following match types can be downloaded"
+msgstr "以下匹配类型可以下载"
+
+msgid "You can add multiple match types, each begin at a new line"
+msgstr "你可以增加多条匹配, 每条以新行开始"
+
+msgid "Other Option"
+msgstr "其他选项"
+
+msgid "Automatically remove the HTML comments"
+msgstr "自动删除HTML注释"
+
+msgid "Remove html element like &lt!-- *** -->"
+msgstr "删除类似 &lt!-- *** --> 形式的html元素"
+
+msgid "Automatically remove the empty HTML element"
+msgstr "自动删除空的HTML元素"
+
+msgid "Remove empty html element, like &lt;p> &lt;/p>"
+msgstr "删除空的HTML元素, 例如 &lt;p> &lt;/p>"
+
+msgid "Automatically remove the HTML ID attribute"
+msgstr "自动删除HTML中的 id 属性"
+
+msgid "Remove html element like id=\" *** \""
+msgstr "删除类似 id=\" *** \" 形式的html元素"
+
+msgid "Automatically remove the HTML CLASS attribute"
+msgstr "自动删除HTML中的 class 属性"
+
+msgid "Remove html element like class=\" *** \""
+msgstr "删除类似 class=\" *** \" 形式的html元素"
+
+msgid "Automatically remove the HTML STYLE attribute"
+msgstr "自动删除HTML中的 style 属性"
+
+msgid "Remove html element like style=\" *** \""
+msgstr "删除类似 style=\" *** \" 形式的html元素"
+
+msgid "items permanently deleted."
+msgstr "个项目已被永久删除。"
+
+msgid "items updated."
+msgstr "个项目已更新。"
+
+msgid "Confirm Empty Logs?"
+msgstr "确认清空日志?"
+
+msgid "Empty Logs"
+msgstr "清空日志"
+
+msgid "Empty"
+msgstr "清空"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Involved URL"
+msgstr "涉及的URL"
+
+msgid "Source URL"
+msgstr "源URL"
+
+msgid "View all status"
+msgstr "查看所有状态"
+
+msgid "Pending Extraction"
+msgstr "待采集"
+
+msgid "Ignored"
+msgstr "已忽略"
+
+msgid "Not Exists"
+msgstr "已不存在"
+
+msgid "Extraction and post"
+msgstr "抓取并发布"
+
+msgid "View all tasks"
+msgstr "查看所有任务"
+
+msgid "Retain the data of last 90 days"
+msgstr "保留最近90天的数据"
+
+msgid "Retain the data of last 60 days"
+msgstr "保留最近60天的数据"
+
+msgid "Retain the data of last 30 days"
+msgstr "保留最近30天的数据"
+
+msgid "Does not retain any data"
+msgstr "不保留任何数据"
+
+msgid "Do not delete posts"
+msgstr "不删除文章"
+
+msgid "Delete posts simultaneously"
+msgstr "同时删除文章"
+
+msgid "This operation may cause duplicate publish, continue?"
+msgstr "该操作可能会造成重复发表, 继续？"
+
+msgid "Confirm Delete?"
+msgstr "确认删除？"
+
+msgid "Duplicate Posts"
+msgstr "重复文章"
+
+msgid "Query the posts of last 30 days"
+msgstr "查询最近30天的文章"
+
+msgid "Query the posts of last 60 days"
+msgstr "查询最近60天的文章"
+
+msgid "Query the posts of last 90 days"
+msgstr "查询最近90天的文章"
+
+msgid "Query all posts"
+msgstr "查询所有文章"
+
+msgid "Similar Percent"
+msgstr "相似度"
+
+msgid "Query Duplicate Posts"
+msgstr "查询重复文章"
+
+msgid "Empty Result"
+msgstr "清空结果"
+
+msgid "This operation may consume large amounts of memory and time, continue?"
+msgstr "该操作可能会消耗大量内存和时间，继续？"
+
+msgid "[Article Source URL] is not set yet"
+msgstr "[文章来源网址]还未设置"
+
+msgid "[The Article URL matching rules] is not set yet"
+msgstr "[文章网址匹配规则]还未设置"
+
+msgid "[The Article Title Matching Rules] is not set yet"
+msgstr "[文章标题匹配规则]还未设置"
+
+msgid "[The Article Content Matching Rules] is not set yet"
+msgstr "[文章内容匹配规则]还未设置"
+
+msgid "Has not updated any post"
+msgstr "还没有更新过任何文章"
+
+msgid "Unable to open URL"
+msgstr "无法打开网址"
+
+msgid "Did not find the article URL, Please check the [Article Source Settings => Article URL matching rules]"
+msgstr "没有找到文章网址, 请检查[文章来源设置 => 文章网址匹配规则]"
+
+msgid "Did not find the title of the article, Please check the [Article Extraction Settings => The Article Title Matching Rules]"
+msgstr "没有找到文章标题, 请检查[文章抓取设置 => 文章标题匹配规则]"
+
+msgid "Did not find the contents of the article, Please check the [Article Extraction Settings => The Article Content Matching Rules]"
+msgstr "没有找到文章内容, 请检查[文章抓取设置 => 文章内容匹配规则]"
+
+msgid "Download remote images fails, use the original image URL"
+msgstr "下载远程图片失败, 使用原始图片地址"
+
+msgid "Download remote image failed will not post"
+msgstr "下载远程图片失败, 不发布"
+
+msgid "Download remote image failed will not post, if you want to post even the images download failed, you can change the settings in [Options Menu]"
+msgstr "下载远程图片失败不发布文章, 如果需要即使图片下载失败也要发布文章，可以在 [选项菜单] 里更改设置"
+
+msgid "Download remote attachment fails, use the original URL"
+msgstr "下载远程附件失败, 使用原始地址"
+
+msgid "Being processed, the processing may take some time, you can close the page"
+msgstr "正在处理中，处理可能需要花些时间，可以关闭该页面"
+
+msgid "Your domain"
+msgstr "您的域名"
+
+msgid " is not authorized! Please visit "
+msgstr "未授权，请访问"
+
+msgid " obtain authorization!"
+msgstr "获取授权"
+
+msgid "Temporarily unable to complete the authenticate, please try later!"
+msgstr "暂时无法完成认证，请稍后再试！"
+
+msgid "Auto Link"
+msgstr "自动链接"
+
+msgid "Add New Keyword"
+msgstr "新增关键词"
+
+msgid "Please enter both a keyword and URL"
+msgstr "请输入关键词和URL"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Attributes"
+msgstr "属性"
+
+msgid "No Follow"
+msgstr "No Follow"
+
+msgid "This adds a rel= \"nofollow\" to the link."
+msgstr "增加 rel= \"nofollow\" 属性"
+
+msgid "New Window"
+msgstr "新窗口"
+
+msgid "This adds a target=\"_blank\" to the link, forcing a new browser window on clicking."
+msgstr "增加 target=\"_blank\" 属性，链接在新窗口打开"
+
+msgid "First Match Only"
+msgstr "只匹配第一个"
+
+msgid "Only add links on the first matched."
+msgstr "只在匹配的第一个中增加链接"
+
+msgid "Ignore Case"
+msgstr "忽略大小写"
+
+msgid "Match whole word only. For language split by \"space\", like English or other Latin languages."
+msgstr "只匹配整个单词，适用于英语或其他拉丁语系"
+
+msgid "A new keyword has been created."
+msgstr "新关键词已添加"
+
+msgid "Batch Delete"
+msgstr "批量删除"
+
+msgid "Auto Link can automatically add links on keywords when publish post."
+msgstr "Auto Link 可以在发布文章的时候自动添加上关键词链接。"
+
+msgid "Auto links for tags"
+msgstr "自动添加标签链接"
+
+msgid "When content contain the keyword of tag, add a link to the tag page."
+msgstr "当文章内容包含标签关键词，自动添加链接到标签页。"
+
+msgid "Auto links old content"
+msgstr "对已发布内容增加链接"
+
+msgid "Auto Link can also add keyword links all existing contents of your blog."
+msgstr "Auto Link 也可以对已经发布的内容增加关键词链接。"
+
+msgid "This feature use keyword list above-mentioned."
+msgstr "该功能使用上述的关键词列表。"
+
+msgid "Auto links all old content &raquo;"
+msgstr "对所有已发布内容增加链接&raquo;"
+
+msgid "If your browser doesn't start loading the next page automatically click this link:"
+msgstr "如果浏览器没有自动跳转到下个页面，请点击："
+
+msgid "Next content"
+msgstr "下条内容"
+
+msgid "Tips: You can create different watermarks applied to different tasks."
+msgstr "提示: 您可以创建不同的水印样式应用于不同的任务。"
+
+msgid "Watermark Name"
+msgstr "水印名称"
+
+msgid "Watermark Type"
+msgstr "水印类型"
+
+msgid "text"
+msgstr "文本"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Upload Image"
+msgstr "上传图像"
+
+msgid "You have not upload watermark image!"
+msgstr "你还没有上传水印图片!"
+
+msgid "Min Width"
+msgstr "最小宽度"
+
+msgid "Min Height"
+msgstr "最小高度"
+
+msgid "Watermark Position"
+msgstr "水印位置"
+
+msgid "Level Adjustment"
+msgstr "水平调整"
+
+msgid "( eg. 5 or -5 )"
+msgstr "(例： 5 或 -5)"
+
+msgid "Vertical Adjustment"
+msgstr "垂直调整"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "you can upload the <b>xxx.ttf</b> font files to the "
+msgstr "你可以上传 <b>xxx.ttf</b> 字体文件到 "
+
+msgid " directory"
+msgstr " 目录"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Fonts Size"
+msgstr "字体大小"
+
+msgid "( eg. 16 )"
+msgstr "(例： 16)"
+
+msgid "Fonts Color"
+msgstr "颜色"
+
+msgid "eg. #ffffff"
+msgstr "例： #ffffff"
+
+msgid "Transparency"
+msgstr "透明度"
+
+msgid "from 0 to 100"
+msgstr "从0到100"
+
+msgid "Jpeg quality"
+msgstr "jpeg图片质量"
+
+msgid "ranges from 1 (worst quality, smaller file) to 100 (best quality, biggest file)"
+msgstr "范围从 1（最差质量，文件最小）到 100（最佳质量，文件最大）"
+
+msgid "Can add a watermark image size"
+msgstr "可增加水印的图片大小"
+
+msgid "Can add a watermark image type"
+msgstr "可增加水印的图片类型"
+
+msgid "Flickr Options"
+msgstr "Flickr 选项"
+
+msgid "Uploaded Images"
+msgstr "已上传图像"
+
+msgid "Automatically upload images to Flickr (1TB Free Storage), save bandwidth and space, speed up your website."
+msgstr "将图片自动上传到 Flickr (1TB的免费存储空间) 并替换源图片地址，节省带宽及空间，提高网站访问速度！"
+
+msgid "Automatically upload images to <a href=\"http://www.flickr.com\" target=\"_blank\">Flickr</a> (1TB Free Storage), save bandwidth and space, speed up your website."
+msgstr "将图片自动上传到 <a href=\"http://www.flickr.com\" target=\"_blank\">Flickr</a> (1TB的免费存储空间) 并替换源图片地址，节省带宽及空间，提高网站访问速度！"
+
+msgid "To use this plugin requires login to your Flickr account and authorize the plugin to connect to your account!"
+msgstr "为正常使用该插件功能，需登录您的Flickr账户并授权该插件连接到您的账户！"
+
+msgid "Click here to authentication"
+msgstr "点击这里进行授权"
+
+msgid "Flickr Account"
+msgstr "Flickr 账户信息"
+
+msgid "If properly connected to your Flickr account, 5 of your recent photos from your Flickr photostream should appear here."
+msgstr "如果正确连接到您的Flickr账户，最近5张您上传的图片将在下面显示。"
+
+msgid "Flickr Photo Sets"
+msgstr "Flickr 相片集"
+
+msgid "Which Flickr Photo Set you want to use to store images?"
+msgstr "你希望将图片存储在哪个相片集中？"
+
+msgid "Not found any Photo Set"
+msgstr "没有找到任何相片集"
+
+msgid "Create your first set now"
+msgstr "立即建立你的第一个相片集"
+
+msgid "Flickr Privacy"
+msgstr "Flickr 隐私"
+
+msgid "Who can view the images uploaded by this plugin?"
+msgstr "谁可以查看到该插件上传的图片？"
+
+msgid "Privacy"
+msgstr "隐私"
+
+msgid "Only you (private)"
+msgstr "仅你自己(私人)"
+
+msgid "Anyone (public)"
+msgstr "任何人(公开)"
+
+msgid "Do not save"
+msgstr "不保存"
+
+msgid "Save the images to Flickr"
+msgstr "将图像保存到 Flickr"
+
+msgid "Save the images to Flickr requires login to your Flickr account and authorize the plugin to connect to your account!"
+msgstr "将图像保存到Flickr需要登录您的Flickr账户并授权该插件连接到您的账户！"
+
+msgid "Upload image to Flickr fails, use the original image URL"
+msgstr "上传图像到Flickr失败，使用原始图像地址"
+
+msgid "Please Select"
+msgstr "请选择"
+
+msgid "Image Size"
+msgstr "图像尺寸"
+
+msgid "Image View"
+msgstr "图像视图"
+
+msgid "Post View"
+msgstr "文章视图"
+
+msgid "Image List"
+msgstr "图像列表"
+
+msgid "Post List"
+msgstr "文章列表"
+
+msgid "Qiniu"
+msgstr "七牛云存储"
+
+msgid "Qiniu Options"
+msgstr "七牛云存储选项"
+
+msgid "Qiniu Account"
+msgstr "七牛账户"
+
+msgid "Automatically upload images to <a href=\"http://www.qiniu.com\" target=\"_blank\" >Qiniu</a> (10GB Free Storage), save bandwidth and space, speed up your website."
+msgstr "将图片自动上传到<a href=\"http://www.qiniu.com\" target=\"_blank\" >七牛</a>(10GB的免费存储空间)并替换源图片地址，节省带宽及空间，提高网站访问速度！"
+
+msgid "The Domain of Qiniu Bucket"
+msgstr "七牛空间绑定的域名"
+
+msgid "Bucket"
+msgstr "空间名"
+
+msgid "Access Key and Secret Key vist <a href=\"https://portal.qiniu.com/setting/key\" target=\"_blank\">https://portal.qiniu.com/setting/key</a> to obtain"
+msgstr "Access Key 和 Secret Key 请到 <a href=\"https://portal.qiniu.com/setting/key\" target=\"_blank\">https://portal.qiniu.com/setting/key</a> 获取"
+
+msgid "If the settings are correct, will upload a image to your Qiniu Bucket and appear here."
+msgstr "如果设置正确，将上传一张测试图像到您的空间并在下面显示"
+
+msgid "Save a copy on local server"
+msgstr "在本地服务器保存图像副本"
+
+msgid "The image URL"
+msgstr "图像URL"
+
+msgid "Save the images to Qiniu"
+msgstr "将图像保存到七牛云存储"
+
+msgid "Automatically upload images to Qiniu (10GB Free Storage), save bandwidth and space, speed up your website."
+msgstr "将图片自动上传到七牛云存储(10GB的免费存储空间)并替换源图片地址，节省带宽及空间，提高网站访问速度！"
+
+msgid "Save the images to Qiniu requires set correctly in Qiniu Options!"
+msgstr "将图像保存到七牛需要在七牛云存储选项中设置正确！"
+
+msgid "Upload image to Qiniu fails, use the original image URL"
+msgstr "上传图像到七牛云存储失败，使用原始图像地址"
+
+msgid "Upyun"
+msgstr "又拍云存储"
+
+msgid "Upyun Options"
+msgstr "又拍云存储选项"
+
+msgid "Automatically upload images to <a href=\"http://www.upyun.com\" target=\"_blank\" >upyun</a> (No Free Storage), save bandwidth and space, speed up your website."
+msgstr "将图片自动上传到<a href=\"http://www.upyun.com\" target=\"_blank\" >又拍云存储</a>(无免费存储空间)并替换源图片地址，节省带宽及空间，提高网站访问速度！"
+
+msgid "Upyun Account"
+msgstr "又拍云存储账户"
+
+msgid "The Domain of Upyun Bucket"
+msgstr "又拍云存储空间绑定的域名"
+
+msgid "Operator User Name"
+msgstr "操作员用户名"
+
+msgid "Operator Password"
+msgstr "操作员密码"
+
+msgid "If the settings are correct, will upload a image to your Upyun Bucket and appear here."
+msgstr "如果设置正确，将上传一张测试图像到您的空间并在下面显示"
+
+msgid "Save the images to Upyun"
+msgstr "将图像保存到又拍云存储"
+
+msgid "Automatically upload images to Upyun, save bandwidth and space, speed up your website."
+msgstr "将图片自动上传到又拍云存储并替换源图片地址，节省带宽及空间，提高网站访问速度！"
+
+msgid "Save the images to Upyun requires set correctly in Upyun Options!"
+msgstr "将图像保存到又拍云存储需要在又拍云存储选项中设置正确！"
+
+msgid "Upload image to Upyun fails, use the original image URL"
+msgstr "上传图像到又拍云存储失败，使用原始图像地址"
+
+msgid "Microsoft Translator"
+msgstr "微软翻译"
+
+msgid "Microsoft Translator Options"
+msgstr "微软翻译选项"
+
+msgid "Client ID"
+msgstr "客户端ID(Client ID)"
+
+msgid "Client secret"
+msgstr "客户端密钥(Client secret)"
+
+msgid "Please Select Client Secret Group."
+msgstr "请选择客户端密钥组"
+
+msgid "Client Secret Group"
+msgstr "客户端密钥组"
+
+msgid "Add Client Secret Group"
+msgstr "新增客户端密钥组"
+
+msgid "If set up correctly, the following language can be translated into other languages"
+msgstr "如果设置正确，可以将下面的语言翻译为其他语言"
+
+msgid "Test Translate"
+msgstr "测试翻译"
+
+msgid "To use this feature, please set up correctly in"
+msgstr "要使用该功能，请先设置"
+
+msgid "Translate"
+msgstr "翻译"
+
+msgid "Use Translator"
+msgstr "使用翻译"
+
+msgid "Baidu Translator"
+msgstr "百度翻译"
+
+msgid "Baidu Translator Options"
+msgstr "百度翻译选项"
+
+msgid "Tip: The frequency of API usage for each IP 1000 times per hour"
+msgstr "提示: 默认翻译API使用频率为每个IP 1000次/小时"
+
+msgid "Use Baidu Translator can get very unique article, <strong>and is absolutely free</strong>."
+msgstr "使用百度翻译可以获得具有唯一性的文章，<strong>并且完全免费</strong>"
+
+msgid "Protected Word will not rewrite"
+msgstr "Protected Word 将不会被重写(替换)"
+
+msgid "Original Language"
+msgstr "原文语言"
+
+msgid "Translated into"
+msgstr "翻译成"
+
+msgid "Post Method"
+msgstr "发布方式"
+
+msgid "Only Post The Translation"
+msgstr "只发布译文"
+
+msgid "Post Original And Translation (Mode 1)"
+msgstr "发布原文和译文(模式1)"
+
+msgid "Post Original And Translation (Mode 2)"
+msgstr "发布原文和译文(模式2)"
+
+msgid "Post Original And Translation (Mode 3)"
+msgstr "发布原文和译文(模式3)"
+
+msgid "Original and the translation in the same article."
+msgstr "原文和译文在同一篇文章里"
+
+msgid "In front of the full original, followed by full translation."
+msgstr "前面为原文的全文，后面为译文的全文"
+
+msgid "One paragraph is original, the following paragraph is translation, and so on."
+msgstr "一段为原文，后面为该段的译文，依次类推"
+
+msgid "The full original article."
+msgstr "原文的全文"
+
+msgid "The full translation article."
+msgstr "译文的全文"
+
+msgid "The first original paragraph."
+msgstr "原文的第一段"
+
+msgid "The second original paragraph."
+msgstr "原文的第二段"
+
+msgid "The translated text."
+msgstr "该段落的译文"
+
+msgid "And so on"
+msgstr "依次类推"
+
+msgid "Original in one article, the translation in another article."
+msgstr "原文发布到一篇文章里，译文发布到另一篇文章里"
+
+msgid "Translated Categories"
+msgstr "译文分类目录"
+
+msgid "Protected Word will not translated"
+msgstr "Protected Word 将不会被翻译"
+
+msgid "Rewrite (Spinning)"
+msgstr "伪原创"
+
+msgid "Use Rewriter"
+msgstr "使用伪原创"
+
+msgid "Use Microsoft Translator can get very unique article, <strong>and is absolutely free</strong>."
+msgstr "使用微软翻译可以获得具有唯一性的文章，<strong>并且完全免费</strong>"
+
+msgid "Translate Language"
+msgstr "翻译语言"
+
+msgid "Also Rewrite The Title"
+msgstr "同时伪原创文章标题"
+
+msgid "When Rewrite Failure Will Not Publish"
+msgstr "伪原创失败时不发布"
+
+msgid "Will first translate into"
+msgstr "将首先翻译成"
+
+msgid "and then translated back to"
+msgstr "然后翻译回"
+
+msgid "Use WordAi can get unique and readable article."
+msgstr "使用 WordAi 可以获得具有唯一性和可读性的文章"
+
+msgid "Has no <strong>WordAi</strong> account, <a class='add-new-h2' href='http://wp-autopost.org/go/?site=WordAi' target='_blank' >visit WordAi for service</a>"
+msgstr "没有 <strong>WordAi</strong> 账户，<a class='add-new-h2' href='http://wp-autopost.org/go/?site=WordAi' target='_blank' >访问 WordAi 获取服务</a>"
+
+msgid "Use Spin Rewriter can get unique and readable article."
+msgstr "使用 Spin Rewriter 可以获得具有唯一性和可读性的文章"
+
+msgid "Has no <strong>Spin Rewriter</strong> account, <a class='add-new-h2' href='http://wp-autopost.org/go/?site=SpinRewriter' target='_blank' >visit Spin Rewriter for service</a>"
+msgstr "没有 <strong>Spin Rewriter</strong> 账户，<a class='add-new-h2' href='http://wp-autopost.org/go/?site=SpinRewriter' target='_blank' >访问 Spin Rewriter 获取服务</a>"
+
+msgid "Proxy"
+msgstr "代理服务器"
+
+msgid "Proxy Options"
+msgstr "代理服务器选项"
+
+msgid "Hostname / IP"
+msgstr "主机名 / IP"
+
+msgid "Port"
+msgstr "端口号"
+
+msgid "User"
+msgstr "用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "optional"
+msgstr "可选"
+
+msgid "Use Proxy"
+msgstr "使用代理服务器"
+
+msgid "Hide IP"
+msgstr "隐藏IP"
+
+msgid "Enable Cookie"
+msgstr "启用Cookie"
+
+msgid "Some few sites need to open this feature can normal extracted contents"
+msgstr "有些网站需要开启Cookie才能正常采集内容"
+
+msgid "When extract error set the status to"
+msgstr "当抓取文章URL出错时设置该URL状态为"
+
+msgid "Not set"
+msgstr "不设置"
+
+msgid "Automatic Set [Article URL matching rules]"
+msgstr "自动设置 [文章网址匹配规则]"
+
+msgid "Use Automatic Set is not always accurate or correct, if you find the results is not accurate or correct, then you need to set by yourself"
+msgstr "使用自动设置功能结果并非总是正确(或精确)，如果你对自动获取的结果并不满意，那么你需要手工自己设置"
+
+msgid "Please select a URL of Article"
+msgstr "请选择其中一篇文章的URL"
+
+msgid "The selected URL must link to a single article"
+msgstr "被选择的URL必须链接到某篇你要采集的文章"
+
+msgid "Select This URL"
+msgstr "选择该URL"
+
+msgid "[Article URL matching rules] is automatically set to : "
+msgstr "[文章网址匹配规则] 自动设置为: "
+
+msgid "Now you are using Automatic Set"
+msgstr "你正在使用自动设置功能"
+
+msgid "Cancel Automatic Set"
+msgstr "取消自动设置"
+
+msgid "Automatic Set [Article Extraction Settings]"
+msgstr "自动设置 [文章抓取设置]"
+
+msgid "Enter a URL of article"
+msgstr "输入某篇需采集文章的URL"
+
+msgid "Unable to automatic find the title of article, you need to set by yourself"
+msgstr "无法自动找到文章的标题，你需要手工自己设置"
+
+msgid "Unable to automatic find the content of article, you need to set by yourself"
+msgstr "无法自动找到文章的内容，你需要手工自己设置"
+
+msgid "Please select the Title of Article from the following list"
+msgstr "请从下面列表中选取这篇文章的标题"
+
+msgid "Select This Title"
+msgstr "选择该标题"
+
+msgid "Paginated Contents has been detected"
+msgstr "文章分页内容被检测到"
+
+msgid "[Article Extraction Settings] is automatically set OK"
+msgstr "[文章抓取设置] 自动设置成功"
+
+msgid "Use <strong>Batch generate The URL of Article List</strong>, is best to use manul update"
+msgstr "使用<strong>批量生成文章列表网址</strong>，最好使用手动更新方式"
+
+msgid "Default Featured Image Settings"
+msgstr "默认特色图像设置"
+
+msgid "If no images in the post OR set featured image failed in the above settings, will use one default featured image"
+msgstr "如果文章没有图像 或 根据上面的设置规则自动设置特色图像失败，将默认随机使用以下设置的图像作为特色图像"
+
+msgid "Use Default Featured Image"
+msgstr "使用默认特色图像"
+
+msgid "No images now, you can upload some images"
+msgstr "还没有图像，请先上传一些图像"
+
+msgid "You can select one or more images as a default featured image, if you selected more then one image will random use one of them"
+msgstr "你可以选择一张或多张图像作为默认的特色图像，如果选择了多个图片，将随机设置其中一张作为特色图片"
+

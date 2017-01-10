@@ -1,0 +1,55 @@
+.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}
+ul ul.children { margin-left: 18px;}
+.red{color:#ff3232;}
+.gray{color:gray;}
+.tdCenter td{text-align:center;}
+.tdLeft td{text-align:left;}
+.tdLeft th{text-align:left;}
+.aptable td{padding:5px;height:28px;}
+.tablehover tbody tr:hover {background: #e7fce7; }
+.selectbg td{background: #e7fce7; } 
+.lightRed {background:#fee4e4;}
+.lightGreen {background:#eaf2fa;}
+.clickBold{color:#21759b;font-weight:bold;}
+.clickBold:hover{color:#d54e21;font-weight:bold;cursor:pointer;}
+
+
+
+#icon-wp-autopost{
+  background: transparent url(../images/wp-autopost-icon.png) no-repeat scroll 0px 0px;
+}
+
+
+.watermark_preview_pic img{
+-webkit-box-shadow: 0 0 7px #999999;
+box-shadow: 0 0 7px #999999;
+-moz-box-shadow: 0 0 7px #999999;
+border: 6px solid #FFFFFF;
+margin-top: 10px;
+max-width: 83%;
+}
+
+.view_img img{
+-webkit-box-shadow: 0 0 7px #999999;
+box-shadow: 0 0 7px #999999;
+-moz-box-shadow: 0 0 7px #999999;
+border: 3px solid #FFFFFF;
+max-width: 83%;
+}
+
+.blockImg{
+  padding: 5px;
+  background:#fff;
+  margin:8px;
+  font-size:12px;
+  float:left;	
+  -webkit-box-shadow: 0 0 7px #999999;
+  box-shadow: 0 0 7px #999999;
+  -moz-box-shadow: 0 0 7px #999999;
+  border: 1px solid #dfdfdf;	
+  -webkit-transition: top 1s ease, left 1s ease;
+  -moz-transition: top 1s ease, left 1s ease;
+  -o-transition: top 1s ease, left 1s ease;
+  -ms-transition: top 1s ease, left 1s ease;
+ }
+.blockImg .innerImg{text-align:center;}

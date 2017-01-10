@@ -1,0 +1,22 @@
+<view class="weui-panel weui-panel_access">
+    <view class="weui-panel__bd">
+        <block wx:for="{{list}}" wx:for-index="id" wx:key="unique">
+            <navigator url="../detail/detail?id={{item.id}}" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                    <image class="weui-media-box__thumb" src="{{item.attachments[0].url}}" />
+                </view>
+                <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                    <view class="weui-media-box__title">{{item.title}}</view>
+                    <view class="weui-media-box__desc">{{item.title_plain}}</view>
+                </view>
+            </navigator>
+        </block>
+        <view class="weui-loadmore" wx:if="{{loading}}">
+            <view class="weui-loading"></view>
+            <view class="weui-loadmore__tips">正在加载</view>
+        </view>
+        <view class="weui-loadmore weui-loadmore_line" wx:if="{{noMore}}">
+            <view class="weui-loadmore__tips weui-loadmore__tips_in-line">暂无数据</view>
+        </view>
+    </view>
+</view>

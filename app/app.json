@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/theme/intnet",
+    "pages/theme/intelligence",
+    "pages/theme/development",
+    "pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#DE3639",
+    "navigationBarTitleText": "极客社区",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": "true"
+  },
+  "tabBar": {
+    "color": "#FFF",
+    "selectedColor": "#DE3639",
+    "borderStyle": "white",
+    "backgroundColor": "#333",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "iconPath": "images/home.png",
+      "selectedIconPath": "images/home_on.png",
+      "text": "首页"
+    }, {
+      "pagePath": "pages/theme/intnet",
+      "iconPath": "images/intnet.png",
+      "selectedIconPath": "images/intnet_on.png",
+      "text": "互联"
+    }, {
+      "pagePath": "pages/theme/intelligence",
+      "iconPath": "images/smart.png",
+      "selectedIconPath": "images/smart_on.png",
+      "text": "智能"
+    }, {
+      "pagePath": "pages/theme/development",
+      "iconPath": "images/develop.png",
+      "selectedIconPath": "images/develop_on.png",
+      "text": "开发"
+    }
+    ]
+  },
+  "networkTimeout": {
+    "request": 120000
+  }
+}

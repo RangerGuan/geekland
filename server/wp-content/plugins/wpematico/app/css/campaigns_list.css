@@ -1,0 +1,62 @@
+a.wpelinks {padding: 4px 14px 0px 4px;font-weight: bold;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=) center right no-repeat; 
+}
+
+#title {width:36%;}
+#status {width:7%;}
+#count {width:7%;}
+#next, .column-next, .row-actions2 {width:130px;}
+#last {width: 26%}
+
+.he20{height:20px;}
+.he35{height:35px;}
+.mt2{margin-top:2px;}
+
+.inline-edit-col-left {
+    width: 40% !important;
+}
+.inline-edit-col-center {
+    width: 20% !important;
+}
+.inline-edit-col-right {
+    width: 39% !important;
+    border: 0px !important;
+    margin: 0px !important;
+}
+
+.inline-edit-col {
+    border: 0px !important;
+}
+
+.inline-edit-col .inline-edit-group label.alignleft {
+    width: 535px;
+}
+
+.qedscroll{
+    padding-right: 18px !important;
+    max-height: 150px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.inline-edit-radiosbox {
+    float: left;
+    border: 1px solid #e5e5e5;
+    background: #fff;
+    padding: 0 7px;
+    margin-right: 5px;
+}
+
+.inline-edit-row fieldset label, .inline-edit-row fieldset span.inline-edit-categories-label {
+  margin: .0em 0;
+  line-height: 2;
+}
+.inline-edit-row fieldset label span.title, span.title.inline-edit-categories-label {
+  line-height: 2;
+  font-weight: bold;
+}
+.qedscroll #post-formats-select {
+line-height: 1em;
+width: 110px;
+}
+
